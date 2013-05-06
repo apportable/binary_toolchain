@@ -1,8 +1,13 @@
 {
     "gdb" : {
-        "current" : "6675c30e360ae2abc7b96c040c3867a37ae0440a",
-        "stable" : "fcb36ce2778272469bf28e91280e81838c8373de",
+        "current" : "a0aeb55ac44b11b83707fedf19bac41b616948c0",
+        "stable" : "6675c30e360ae2abc7b96c040c3867a37ae0440a",
         "versions" : {
+            "a0aeb55ac44b11b83707fedf19bac41b616948c0": {
+                "date": "Sun May 5 17:28:19 2013",
+                "note": "",
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/76abc91b312b560d55da928091d48bab50d5f654/gdb-a0aeb55ac44b11b83707fedf19bac41b616948c0.tgz"
+            },
             "6675c30e360ae2abc7b96c040c3867a37ae0440a": {
                 "date": "Wed Apr  3 16:33:17 2013",
                 "note": "",
@@ -21,7 +26,7 @@
         }
     },
     "clang" : {
-        "current" : "c250d8b6c0aba5ae481526606084bb3112c3e6ff",
+        "current" : "925804cd386ea8c186ee9c6995cd44bab3b95f14",
         "stable" : "c250d8b6c0aba5ae481526606084bb3112c3e6ff",
         "versions" : {
             "06017c71300e33419f46b46f350192b6032e7e0d" : {
@@ -37,6 +42,11 @@
             "c250d8b6c0aba5ae481526606084bb3112c3e6ff" : {
                 "url" : "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/6c3401fdb520697c73f73443e2dec3af4c2c242f/clang-c250d8b6c0aba5ae481526606084bb3112c3e6ff.tgz",
                 "date" : "Tue Feb 26 20:37:09 2013",
+                "note" : ""
+            },
+            "925804cd386ea8c186ee9c6995cd44bab3b95f14" : {
+                "url" : "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/76abc91b312b560d55da928091d48bab50d5f654/clang-925804cd386ea8c186ee9c6995cd44bab3b95f14.tgz",
+                "date" : "Sun May 5 17:28:19 2013",
                 "note" : ""
             }
         }
