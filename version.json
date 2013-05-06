@@ -1,0 +1,66 @@
+{
+    "gdb" : {
+        "current" : "6675c30e360ae2abc7b96c040c3867a37ae0440a",
+        "stable" : "fcb36ce2778272469bf28e91280e81838c8373de",
+        "versions" : {
+            "6675c30e360ae2abc7b96c040c3867a37ae0440a": {
+                "date": "Wed Apr  3 16:33:17 2013",
+                "note": "",
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/304d3bec647ec36b6c5c22d16712f29d5bec4c39/gdb-6675c30e360ae2abc7b96c040c3867a37ae0440a.tgz"
+            },
+            "ee42cf949ec7ce4e3cf2ab0405fd394f29b27e40" : {
+                "url" : "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/003/gdb-ee42cf949ec7ce4e3cf2ab0405fd394f29b27e40.tgz",
+                "date" : "Sat Feb 23 19:47:47 2013",
+                "note" : ""
+            },
+            "fcb36ce2778272469bf28e91280e81838c8373de" : {
+                "url" : "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/6c3401fdb520697c73f73443e2dec3af4c2c242f/gdb-fcb36ce2778272469bf28e91280e81838c8373de.tgz",
+                "date" : "Sat Feb 23 19:47:47 2013",
+                "note" : ""
+            }
+        }
+    },
+    "clang" : {
+        "current" : "c250d8b6c0aba5ae481526606084bb3112c3e6ff",
+        "stable" : "c250d8b6c0aba5ae481526606084bb3112c3e6ff",
+        "versions" : {
+            "06017c71300e33419f46b46f350192b6032e7e0d" : {
+                "url" : "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/003/clang-06017c71300e33419f46b46f350192b6032e7e0d.tgz",
+                "date" : "Sat Feb 23 19:47:47 2013",
+                "note" : ""
+            },
+            "bee9c1e91260dd269d1a85ec5d11f1e8835c25b2" : {
+                "url" : "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/004/clang-bee9c1e91260dd269d1a85ec5d11f1e8835c25b2.tgz",
+                "date" : "Tue Feb 26 20:37:09 2013",
+                "note" : ""
+            },
+            "c250d8b6c0aba5ae481526606084bb3112c3e6ff" : {
+                "url" : "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/6c3401fdb520697c73f73443e2dec3af4c2c242f/clang-c250d8b6c0aba5ae481526606084bb3112c3e6ff.tgz",
+                "date" : "Tue Feb 26 20:37:09 2013",
+                "note" : ""
+            }
+        }
+    },
+    "android-ndk" : {
+        "current" : "r8d",
+        "stable" : "r8d",
+        "versions" : {
+            "r8d" : {
+                "url" : "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/003/android-ndk-r8d.tgz",
+                "date" : "Sat Feb 23 19:47:47 2013",
+                "note" : ""
+            }
+        }
+    },
+    "android-sdk" : {
+        "current" : "r21.0.1",
+        "stable" : "r21.0.1",
+        "versions" : {
+            "r21.0.1" : {
+                "url" : "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/003/android-sdk-r21.0.1.tgz",
+                "date" : "Sat Feb 23 19:47:47 2013",
+                "note" : ""
+            }
+        }
+    }
+}
