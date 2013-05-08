@@ -52,23 +52,33 @@
         }
     },
     "android-ndk" : {
-        "current" : "r8d",
+        "current" : "r8d.1",
         "stable" : "r8d",
         "versions" : {
             "r8d" : {
                 "url" : "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/003/android-ndk-r8d.tgz",
                 "date" : "Sat Feb 23 19:47:47 2013",
                 "note" : ""
+            },
+            "r8d.1" : {
+                "url" : "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/7c747b48e5556e0edbe38e492b5749f5b627041c/android-ndk-r8d.1.tgz",
+                "date" : "Wed May 8 00:38:36 2013",
+                "note" : ""
             }
         }
     },
     "android-sdk" : {
-        "current" : "r21.0.1",
+        "current" : "r21.0.1.1",
         "stable" : "r21.0.1",
         "versions" : {
             "r21.0.1" : {
                 "url" : "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/003/android-sdk-r21.0.1.tgz",
                 "date" : "Sat Feb 23 19:47:47 2013",
+                "note" : ""
+            },
+            "r21.0.1.1" : {
+                "url" : "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/7c747b48e5556e0edbe38e492b5749f5b627041c/android-sdk-r21.0.1.1.",
+                "date" : "Wed May 8 00:38:36 2013",
                 "note" : ""
             }
         }
