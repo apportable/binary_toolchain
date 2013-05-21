@@ -82,5 +82,16 @@
                 "note" : ""
             }
         }
+    },
+    "vorbis-tools" : {
+        "current" : "0c2e4c653c107b53e366ad8d352839dfca8495b0",
+        "stable" : "0c2e4c653c107b53e366ad8d352839dfca8495b0",
+        "versions" : {
+            "0c2e4c653c107b53e366ad8d352839dfca8495b0" : {
+                "url" : "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/17a76b79a8eeb58be6fadb710fe161972acfb670/vorbis-tools-0c2e4c653c107b53e366ad8d352839dfca8495b0.tgz",
+                "date" : "Tue May 21 10:26:49 2013",
+                "note" : ""
+            }
+        }
     }
 }
