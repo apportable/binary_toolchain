@@ -26,7 +26,7 @@
         }
     },
     "clang" : {
-        "current" : "925804cd386ea8c186ee9c6995cd44bab3b95f14",
+        "current" : "7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e",
         "stable" : "925804cd386ea8c186ee9c6995cd44bab3b95f14",
         "versions" : {
             "06017c71300e33419f46b46f350192b6032e7e0d" : {
@@ -48,6 +48,11 @@
                 "url" : "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/76abc91b312b560d55da928091d48bab50d5f654/clang-925804cd386ea8c186ee9c6995cd44bab3b95f14.tgz",
                 "date" : "Sun May 5 17:28:19 2013",
                 "note" : ""
+            },
+            "7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e" : {
+                "url" : "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/6edbd910c7ea397c76aa762a63664b04e6201bbd/clang-7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e.tgz",
+                "date" : "Thu May 23 23:41:34 2013",
+                "note" : "llvm/clang 3.3" 
             }
         }
     },
