@@ -1,8 +1,13 @@
 {
     "gdb" : {
-        "current" : "8c0d2ad999905881f5d1b9dbbb8169f3a56a7171",
+        "current" : "4e639d65677bb04a16bd74a6ceb923855ac81c97",
         "stable" : "8c0d2ad999905881f5d1b9dbbb8169f3a56a7171",
         "versions" : {
+            "4e639d65677bb04a16bd74a6ceb923855ac81c97": {
+                "date": "Thu May 30 17:49:10 2013",
+                "note": "",
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/06f129f39e29888ed11ee042b57aa2e9e4fd5882/gdb-4e639d65677bb04a16bd74a6ceb923855ac81c97.tgz"
+            },
             "a0aeb55ac44b11b83707fedf19bac41b616948c0": {
                 "date": "Sun May 5 17:28:19 2013",
                 "note": "",
