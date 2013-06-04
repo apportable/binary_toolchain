@@ -121,12 +121,12 @@
         }
     },
     "profiler" : {
-        "current" : "8c6936fe4bcf1612799921ca8f9072b6d3ea8d76",
-        "stable" : "8c6936fe4bcf1612799921ca8f9072b6d3ea8d76",
+        "current" : "c905419b4766ef76d2eab8d17e98ee185f7e911c",
+        "stable" : "c905419b4766ef76d2eab8d17e98ee185f7e911c",
         "versions" : {
-            "8c6936fe4bcf1612799921ca8f9072b6d3ea8d76" : {
-                "url" : "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/853cc5332d89d81beae37a80bb024ee2b9f55a85/Profiler-8c6936fe4bcf1612799921ca8f9072b6d3ea8d76.tgz",
-                "date" : "Mon Jun 3 19:13:45 2013",
+            "c905419b4766ef76d2eab8d17e98ee185f7e911c" : {
+                "url" : "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/075e4faf71ba7cf2b911ef432459ffd0f2fa61b8/Profiler-c905419b4766ef76d2eab8d17e98ee185f7e911c.tgz",
+                "date" : "Tue Jun 4 13:08:24 2013",
                 "note" : "1.01"
             }
         }
