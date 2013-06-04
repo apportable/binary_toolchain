@@ -119,5 +119,16 @@
                 "note" : ""
             }
         }
+    },
+    "profiler" : {
+        "current" : "c905419b4766ef76d2eab8d17e98ee185f7e911c",
+        "stable" : "c905419b4766ef76d2eab8d17e98ee185f7e911c",
+        "versions" : {
+            "c905419b4766ef76d2eab8d17e98ee185f7e911c" : {
+                "url" : "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/075e4faf71ba7cf2b911ef432459ffd0f2fa61b8/Profiler-c905419b4766ef76d2eab8d17e98ee185f7e911c.tgz",
+                "date" : "Tue Jun 4 13:08:24 2013",
+                "note" : "1.01"
+            }
+        }
     }
 }
