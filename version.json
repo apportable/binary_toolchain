@@ -115,8 +115,8 @@
         "versions" : {
             "" :{
                 "url" : "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/853cc5332d89d81beae37a80bb024ee2b9f55a85/m4-e447db581a4b3d4655ad62ea85d0445342c4ac6a.tgz",
-                "date" : "Mon Jun 3 19:13:45 2013",
-                "note" : ""
+                "date" : "",
+                "note" : "Mon Jun 3 10:26:49 2013"
             }
         }
     }
