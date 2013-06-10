@@ -29,6 +29,11 @@
                 "date": "Tue May 28 23:22:34 2013",
                 "note": "",
                 "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/linux-x86/6e57b996a16a1099e26b7ba609383ad581ab6fe8/clang-7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e.tgz"
+            },
+            "925804cd386ea8c186ee9c6995cd44bab3b95f14": {
+                "date": "Sun May 5 17:28:19 2013",
+                "note": "",
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/linux-x86/76abc91b312b560d55da928091d48bab50d5f654/clang-925804cd386ea8c186ee9c6995cd44bab3b95f14.tgz"
             }
         }
     },
