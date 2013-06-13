@@ -130,5 +130,16 @@
                 "note" : "1.01"
             }
         }
+    },
+    "adb" : {
+        "current" : "cd96bfaea0f38a2de67e478463b24a4394be2cb3",
+        "stable" : "cd96bfaea0f38a2de67e478463b24a4394be2cb3",
+        "versions" : {
+            "cd96bfaea0f38a2de67e478463b24a4394be2cb3" : {
+                "url" : "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/41b5c62d39b8a38f22f34320a8001a43016db545/adb-cd96bfaea0f38a2de67e478463b24a4394be2cb3.tgz",
+                "date" : "Wed Jun 12 23:28:06 2013",
+                "note" : ""
+            }
+        }
     }
 }
