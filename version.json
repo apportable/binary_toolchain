@@ -139,6 +139,11 @@
                 "url" : "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/41b5c62d39b8a38f22f34320a8001a43016db545/adb-cd96bfaea0f38a2de67e478463b24a4394be2cb3.tgz",
                 "date" : "Wed Jun 12 23:28:06 2013",
                 "note" : ""
+            },
+            "066001026f0650900612e7003e95f46cf94a13b8" : {
+                "url" : "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/ad0d21783b458c37d529b72c5becde7b8bf2b91e/adb-066001026f0650900612e7003e95f46cf94a13b8.tgz",
+                "date" : "Mon Jun 17 16:40:41 2013",
+                "note" : ""
             }
         }
     }
