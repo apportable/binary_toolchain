@@ -22,9 +22,14 @@
         }
     },
     "clang": {
-        "current": "7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e",
-        "stable": "7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e",
+        "current": "ce9e60fd87d32b27de605ef36e1c2dcfde1efeeb_7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e",
+        "stable": "ce9e60fd87d32b27de605ef36e1c2dcfde1efeeb_7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e",
         "versions": {
+            "ce9e60fd87d32b27de605ef36e1c2dcfde1efeeb_7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e": {
+                "date": "Fri Jul 19 03:25:17 2013",
+                "note": "",
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/linux-x86/ce9e60fd87d32b27de605ef36e1c2dcfde1efeeb/clang-7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e.tgz"
+            },
             "7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e": {
                 "date": "Tue Jul  2 16:19:57 2013",
                 "note": "",
