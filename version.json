@@ -6,6 +6,7 @@
             "cd96bfaea0f38a2de67e478463b24a4394be2cb3": {
                 "date": "Wed Jun 12 23:28:06 2013", 
                 "note": "", 
+                "sha1": "aeb137d31c6433a8643e1a49ded9f9759b988a33", 
                 "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/41b5c62d39b8a38f22f34320a8001a43016db545/adb-cd96bfaea0f38a2de67e478463b24a4394be2cb3.tgz"
             }
         }
@@ -22,6 +23,7 @@
             "r8d.1": {
                 "date": "Wed May 8 00:38:36 2013", 
                 "note": "", 
+                "sha1": "21f0db90ee77181a702c4041ce4e4a7cb1b39722", 
                 "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/7c747b48e5556e0edbe38e492b5749f5b627041c/android-ndk-r8d.1.tgz"
             }
         }
@@ -38,6 +40,7 @@
             "r21.0.1.1": {
                 "date": "Wed May 8 00:38:36 2013", 
                 "note": "", 
+                "sha1": "530d6e7ebc75d377aef35256f635c65569ed480c", 
                 "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/7c747b48e5556e0edbe38e492b5749f5b627041c/android-sdk-r21.0.1.1.tgz"
             }
         }
@@ -54,6 +57,7 @@
             "7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e": {
                 "date": "Thu May 23 23:41:34 2013", 
                 "note": "llvm/clang 3.3", 
+                "sha1": "292415cd4ee1be874b844bceaf85732d18ab1bf4", 
                 "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/6edbd910c7ea397c76aa762a63664b04e6201bbd/clang-7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e.tgz"
             }, 
             "925804cd386ea8c186ee9c6995cd44bab3b95f14": {
@@ -90,6 +94,7 @@
             "69461fd8b13e6523edbc1174b2e268c4b691d5ba": {
                 "date": "Sat Dec 14 14:37:54 2013", 
                 "note": "", 
+                "sha1": "1289fd82452c929076d5eaa688c04efb7ad91089", 
                 "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/76b62d84ca46e4ee4bedc54118f10479696323e0/gdb-69461fd8b13e6523edbc1174b2e268c4b691d5ba.tgz"
             }, 
             "8c0d2ad999905881f5d1b9dbbb8169f3a56a7171": {
@@ -131,6 +136,7 @@
             "e447db581a4b3d4655ad62ea85d0445342c4ac6a": {
                 "date": "Mon Jun 3 19:13:45 2013", 
                 "note": "", 
+                "sha1": "45fe0f7d0f44bb839aae447b879bec44781afc2c", 
                 "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/853cc5332d89d81beae37a80bb024ee2b9f55a85/m4-e447db581a4b3d4655ad62ea85d0445342c4ac6a.tgz"
             }
         }
@@ -142,6 +148,7 @@
             "c905419b4766ef76d2eab8d17e98ee185f7e911c": {
                 "date": "Tue Jun 4 13:08:24 2013", 
                 "note": "1.01", 
+                "sha1": "f9dfa69e61b50f14e7f860e8bca69cc547f76d67", 
                 "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/075e4faf71ba7cf2b911ef432459ffd0f2fa61b8/Profiler-c905419b4766ef76d2eab8d17e98ee185f7e911c.tgz"
             }
         }
@@ -153,6 +160,7 @@
             "0c2e4c653c107b53e366ad8d352839dfca8495b0": {
                 "date": "Tue May 21 10:26:49 2013", 
                 "note": "", 
+                "sha1": "fdaca571cf783590a0aca06236ed830f8b60650b", 
                 "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/17a76b79a8eeb58be6fadb710fe161972acfb670/vorbis-tools-0c2e4c653c107b53e366ad8d352839dfca8495b0.tgz"
             }
         }
