@@ -1,159 +1,159 @@
 {
-    "gdb" : {
-        "current" : "69461fd8b13e6523edbc1174b2e268c4b691d5ba",
-        "stable" : "97e48c635a8ba6806b4a37b1fb5be255b55203bb",
-        "versions" : {
-            "a0aeb55ac44b11b83707fedf19bac41b616948c0": {
-                "date": "Sun May 5 17:28:19 2013",
-                "note": "",
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/76abc91b312b560d55da928091d48bab50d5f654/gdb-a0aeb55ac44b11b83707fedf19bac41b616948c0.tgz"
-            },
-            "6675c30e360ae2abc7b96c040c3867a37ae0440a": {
-                "date": "Wed Apr  3 16:33:17 2013",
-                "note": "",
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/304d3bec647ec36b6c5c22d16712f29d5bec4c39/gdb-6675c30e360ae2abc7b96c040c3867a37ae0440a.tgz"
-            },
-            "ee42cf949ec7ce4e3cf2ab0405fd394f29b27e40" : {
-                "url" : "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/003/gdb-ee42cf949ec7ce4e3cf2ab0405fd394f29b27e40.tgz",
-                "date" : "Sat Feb 23 19:47:47 2013",
-                "note" : ""
-            },
-            "fcb36ce2778272469bf28e91280e81838c8373de" : {
-                "url" : "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/6c3401fdb520697c73f73443e2dec3af4c2c242f/gdb-fcb36ce2778272469bf28e91280e81838c8373de.tgz",
-                "date" : "Sat Feb 23 19:47:47 2013",
-                "note" : ""
-            },
-            "8c0d2ad999905881f5d1b9dbbb8169f3a56a7171": {
-                "date": "Wed May 29 17:28:19 2013",
-                "note": "",
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/6e57b996a16a1099e26b7ba609383ad581ab6fe8/gdb-8c0d2ad999905881f5d1b9dbbb8169f3a56a7171.tgz"
-            },
+    "adb": {
+        "current": "cd96bfaea0f38a2de67e478463b24a4394be2cb3", 
+        "stable": "cd96bfaea0f38a2de67e478463b24a4394be2cb3", 
+        "versions": {
+            "cd96bfaea0f38a2de67e478463b24a4394be2cb3": {
+                "date": "Wed Jun 12 23:28:06 2013", 
+                "note": "", 
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/41b5c62d39b8a38f22f34320a8001a43016db545/adb-cd96bfaea0f38a2de67e478463b24a4394be2cb3.tgz"
+            }
+        }
+    }, 
+    "android-ndk": {
+        "current": "r8d.1", 
+        "stable": "r8d.1", 
+        "versions": {
+            "r8d": {
+                "date": "Sat Feb 23 19:47:47 2013", 
+                "note": "", 
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/003/android-ndk-r8d.tgz"
+            }, 
+            "r8d.1": {
+                "date": "Wed May 8 00:38:36 2013", 
+                "note": "", 
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/7c747b48e5556e0edbe38e492b5749f5b627041c/android-ndk-r8d.1.tgz"
+            }
+        }
+    }, 
+    "android-sdk": {
+        "current": "r21.0.1.1", 
+        "stable": "r21.0.1.1", 
+        "versions": {
+            "r21.0.1": {
+                "date": "Sat Feb 23 19:47:47 2013", 
+                "note": "", 
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/003/android-sdk-r21.0.1.tgz"
+            }, 
+            "r21.0.1.1": {
+                "date": "Wed May 8 00:38:36 2013", 
+                "note": "", 
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/7c747b48e5556e0edbe38e492b5749f5b627041c/android-sdk-r21.0.1.1.tgz"
+            }
+        }
+    }, 
+    "clang": {
+        "current": "7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e", 
+        "stable": "7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e", 
+        "versions": {
+            "06017c71300e33419f46b46f350192b6032e7e0d": {
+                "date": "Sat Feb 23 19:47:47 2013", 
+                "note": "", 
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/003/clang-06017c71300e33419f46b46f350192b6032e7e0d.tgz"
+            }, 
+            "7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e": {
+                "date": "Thu May 23 23:41:34 2013", 
+                "note": "llvm/clang 3.3", 
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/6edbd910c7ea397c76aa762a63664b04e6201bbd/clang-7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e.tgz"
+            }, 
+            "925804cd386ea8c186ee9c6995cd44bab3b95f14": {
+                "date": "Sun May 5 17:28:19 2013", 
+                "note": "", 
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/76abc91b312b560d55da928091d48bab50d5f654/clang-925804cd386ea8c186ee9c6995cd44bab3b95f14.tgz"
+            }, 
+            "bee9c1e91260dd269d1a85ec5d11f1e8835c25b2": {
+                "date": "Tue Feb 26 20:37:09 2013", 
+                "note": "", 
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/004/clang-bee9c1e91260dd269d1a85ec5d11f1e8835c25b2.tgz"
+            }, 
+            "c250d8b6c0aba5ae481526606084bb3112c3e6ff": {
+                "date": "Tue Feb 26 20:37:09 2013", 
+                "note": "", 
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/6c3401fdb520697c73f73443e2dec3af4c2c242f/clang-c250d8b6c0aba5ae481526606084bb3112c3e6ff.tgz"
+            }
+        }
+    }, 
+    "gdb": {
+        "current": "69461fd8b13e6523edbc1174b2e268c4b691d5ba", 
+        "stable": "97e48c635a8ba6806b4a37b1fb5be255b55203bb", 
+        "versions": {
             "4e639d65677bb04a16bd74a6ceb923855ac81c97": {
-                "date": "Thu May 30 17:49:10 2013",
-                "note": "",
+                "date": "Thu May 30 17:49:10 2013", 
+                "note": "", 
                 "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/06f129f39e29888ed11ee042b57aa2e9e4fd5882/gdb-4e639d65677bb04a16bd74a6ceb923855ac81c97.tgz"
-            },
-            "ff0611b8b721b3bf393c655c7d147de52cc850ac" : {
-                "date": "Thu Jun 27 14:58:40 2013",
-                "note": "",
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/086044017401a1d04d629f5454d74f20ffdb3ddf/gdb-ff0611b8b721b3bf393c655c7d147de52cc850ac.tgz"
-            },
-            "97e48c635a8ba6806b4a37b1fb5be255b55203bb": {
-                "date": "Thu Jul 18 21:25:13 2013",
-                "note": "",
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/ce9e60fd87d32b27de605ef36e1c2dcfde1efeeb/gdb-97e48c635a8ba6806b4a37b1fb5be255b55203bb.tgz"
-            },
+            }, 
+            "6675c30e360ae2abc7b96c040c3867a37ae0440a": {
+                "date": "Wed Apr  3 16:33:17 2013", 
+                "note": "", 
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/304d3bec647ec36b6c5c22d16712f29d5bec4c39/gdb-6675c30e360ae2abc7b96c040c3867a37ae0440a.tgz"
+            }, 
             "69461fd8b13e6523edbc1174b2e268c4b691d5ba": {
-                "date": "Sat Dec 14 14:37:54 2013",
-                "note": "",
+                "date": "Sat Dec 14 14:37:54 2013", 
+                "note": "", 
                 "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/76b62d84ca46e4ee4bedc54118f10479696323e0/gdb-69461fd8b13e6523edbc1174b2e268c4b691d5ba.tgz"
+            }, 
+            "8c0d2ad999905881f5d1b9dbbb8169f3a56a7171": {
+                "date": "Wed May 29 17:28:19 2013", 
+                "note": "", 
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/6e57b996a16a1099e26b7ba609383ad581ab6fe8/gdb-8c0d2ad999905881f5d1b9dbbb8169f3a56a7171.tgz"
+            }, 
+            "97e48c635a8ba6806b4a37b1fb5be255b55203bb": {
+                "date": "Thu Jul 18 21:25:13 2013", 
+                "note": "", 
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/ce9e60fd87d32b27de605ef36e1c2dcfde1efeeb/gdb-97e48c635a8ba6806b4a37b1fb5be255b55203bb.tgz"
+            }, 
+            "a0aeb55ac44b11b83707fedf19bac41b616948c0": {
+                "date": "Sun May 5 17:28:19 2013", 
+                "note": "", 
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/76abc91b312b560d55da928091d48bab50d5f654/gdb-a0aeb55ac44b11b83707fedf19bac41b616948c0.tgz"
+            }, 
+            "ee42cf949ec7ce4e3cf2ab0405fd394f29b27e40": {
+                "date": "Sat Feb 23 19:47:47 2013", 
+                "note": "", 
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/003/gdb-ee42cf949ec7ce4e3cf2ab0405fd394f29b27e40.tgz"
+            }, 
+            "fcb36ce2778272469bf28e91280e81838c8373de": {
+                "date": "Sat Feb 23 19:47:47 2013", 
+                "note": "", 
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/6c3401fdb520697c73f73443e2dec3af4c2c242f/gdb-fcb36ce2778272469bf28e91280e81838c8373de.tgz"
+            }, 
+            "ff0611b8b721b3bf393c655c7d147de52cc850ac": {
+                "date": "Thu Jun 27 14:58:40 2013", 
+                "note": "", 
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/086044017401a1d04d629f5454d74f20ffdb3ddf/gdb-ff0611b8b721b3bf393c655c7d147de52cc850ac.tgz"
             }
         }
-    },
-    "clang" : {
-        "current" : "7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e",
-        "stable" : "7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e",
-        "versions" : {
-            "06017c71300e33419f46b46f350192b6032e7e0d" : {
-                "url" : "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/003/clang-06017c71300e33419f46b46f350192b6032e7e0d.tgz",
-                "date" : "Sat Feb 23 19:47:47 2013",
-                "note" : ""
-            },
-            "bee9c1e91260dd269d1a85ec5d11f1e8835c25b2" : {
-                "url" : "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/004/clang-bee9c1e91260dd269d1a85ec5d11f1e8835c25b2.tgz",
-                "date" : "Tue Feb 26 20:37:09 2013",
-                "note" : ""
-            },
-            "c250d8b6c0aba5ae481526606084bb3112c3e6ff" : {
-                "url" : "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/6c3401fdb520697c73f73443e2dec3af4c2c242f/clang-c250d8b6c0aba5ae481526606084bb3112c3e6ff.tgz",
-                "date" : "Tue Feb 26 20:37:09 2013",
-                "note" : ""
-            },
-            "925804cd386ea8c186ee9c6995cd44bab3b95f14" : {
-                "url" : "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/76abc91b312b560d55da928091d48bab50d5f654/clang-925804cd386ea8c186ee9c6995cd44bab3b95f14.tgz",
-                "date" : "Sun May 5 17:28:19 2013",
-                "note" : ""
-            },
-            "7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e" : {
-                "url" : "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/6edbd910c7ea397c76aa762a63664b04e6201bbd/clang-7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e.tgz",
-                "date" : "Thu May 23 23:41:34 2013",
-                "note" : "llvm/clang 3.3" 
+    }, 
+    "m4": {
+        "current": "e447db581a4b3d4655ad62ea85d0445342c4ac6a", 
+        "stable": "e447db581a4b3d4655ad62ea85d0445342c4ac6a", 
+        "versions": {
+            "e447db581a4b3d4655ad62ea85d0445342c4ac6a": {
+                "date": "Mon Jun 3 19:13:45 2013", 
+                "note": "", 
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/853cc5332d89d81beae37a80bb024ee2b9f55a85/m4-e447db581a4b3d4655ad62ea85d0445342c4ac6a.tgz"
             }
         }
-    },
-    "android-ndk" : {
-        "current" : "r8d.1",
-        "stable" : "r8d.1",
-        "versions" : {
-            "r8d" : {
-                "url" : "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/003/android-ndk-r8d.tgz",
-                "date" : "Sat Feb 23 19:47:47 2013",
-                "note" : ""
-            },
-            "r8d.1" : {
-                "url" : "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/7c747b48e5556e0edbe38e492b5749f5b627041c/android-ndk-r8d.1.tgz",
-                "date" : "Wed May 8 00:38:36 2013",
-                "note" : ""
+    }, 
+    "profiler": {
+        "current": "c905419b4766ef76d2eab8d17e98ee185f7e911c", 
+        "stable": "c905419b4766ef76d2eab8d17e98ee185f7e911c", 
+        "versions": {
+            "c905419b4766ef76d2eab8d17e98ee185f7e911c": {
+                "date": "Tue Jun 4 13:08:24 2013", 
+                "note": "1.01", 
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/075e4faf71ba7cf2b911ef432459ffd0f2fa61b8/Profiler-c905419b4766ef76d2eab8d17e98ee185f7e911c.tgz"
             }
         }
-    },
-    "android-sdk" : {
-        "current" : "r21.0.1.1",
-        "stable" : "r21.0.1.1",
-        "versions" : {
-            "r21.0.1" : {
-                "url" : "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/003/android-sdk-r21.0.1.tgz",
-                "date" : "Sat Feb 23 19:47:47 2013",
-                "note" : ""
-            },
-            "r21.0.1.1" : {
-                "url" : "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/7c747b48e5556e0edbe38e492b5749f5b627041c/android-sdk-r21.0.1.1.tgz",
-                "date" : "Wed May 8 00:38:36 2013",
-                "note" : ""
-            }
-        }
-    },
-    "vorbis-tools" : {
-        "current" : "0c2e4c653c107b53e366ad8d352839dfca8495b0",
-        "stable" : "0c2e4c653c107b53e366ad8d352839dfca8495b0",
-        "versions" : {
-            "0c2e4c653c107b53e366ad8d352839dfca8495b0" : {
-                "url" : "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/17a76b79a8eeb58be6fadb710fe161972acfb670/vorbis-tools-0c2e4c653c107b53e366ad8d352839dfca8495b0.tgz",
-                "date" : "Tue May 21 10:26:49 2013",
-                "note" : ""
-            }
-        }
-    },
-    "m4" : {
-        "current" : "e447db581a4b3d4655ad62ea85d0445342c4ac6a",
-        "stable" : "e447db581a4b3d4655ad62ea85d0445342c4ac6a",
-        "versions" : {
-            "e447db581a4b3d4655ad62ea85d0445342c4ac6a" :{
-                "url" : "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/853cc5332d89d81beae37a80bb024ee2b9f55a85/m4-e447db581a4b3d4655ad62ea85d0445342c4ac6a.tgz",
-                "date" : "Mon Jun 3 19:13:45 2013",
-                "note" : ""
-            }
-        }
-    },
-    "profiler" : {
-        "current" : "c905419b4766ef76d2eab8d17e98ee185f7e911c",
-        "stable" : "c905419b4766ef76d2eab8d17e98ee185f7e911c",
-        "versions" : {
-            "c905419b4766ef76d2eab8d17e98ee185f7e911c" : {
-                "url" : "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/075e4faf71ba7cf2b911ef432459ffd0f2fa61b8/Profiler-c905419b4766ef76d2eab8d17e98ee185f7e911c.tgz",
-                "date" : "Tue Jun 4 13:08:24 2013",
-                "note" : "1.01"
-            }
-        }
-    },
-    "adb" : {
-        "current" : "cd96bfaea0f38a2de67e478463b24a4394be2cb3",
-        "stable" : "cd96bfaea0f38a2de67e478463b24a4394be2cb3",
-        "versions" : {
-            "cd96bfaea0f38a2de67e478463b24a4394be2cb3" : {
-                "url" : "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/41b5c62d39b8a38f22f34320a8001a43016db545/adb-cd96bfaea0f38a2de67e478463b24a4394be2cb3.tgz",
-                "date" : "Wed Jun 12 23:28:06 2013",
-                "note" : ""
+    }, 
+    "vorbis-tools": {
+        "current": "0c2e4c653c107b53e366ad8d352839dfca8495b0", 
+        "stable": "0c2e4c653c107b53e366ad8d352839dfca8495b0", 
+        "versions": {
+            "0c2e4c653c107b53e366ad8d352839dfca8495b0": {
+                "date": "Tue May 21 10:26:49 2013", 
+                "note": "", 
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/17a76b79a8eeb58be6fadb710fe161972acfb670/vorbis-tools-0c2e4c653c107b53e366ad8d352839dfca8495b0.tgz"
             }
         }
     }
