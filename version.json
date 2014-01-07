@@ -92,12 +92,12 @@
                 "note": "", 
                 "sha1": "029e5f97fb23dbe719f7170570605700c34a29b9", 
                 "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/06f129f39e29888ed11ee042b57aa2e9e4fd5882/gdb-4e639d65677bb04a16bd74a6ceb923855ac81c97.tgz"
-            },
+            }, 
             "4e9eedd60f78ce91b4f71b222299ef3cf7d765d2": {
-                "date": "Fri Jan  3 14:22:17 2014",
-                "note": "",
+                "date": "Fri Jan  3 14:22:17 2014", 
+                "note": "", 
                 "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/8127408335dc92516d5f6f58e5f8fee59e9ef23d/gdb-4e9eedd60f78ce91b4f71b222299ef3cf7d765d2.tgz"
-            },
+            }, 
             "6675c30e360ae2abc7b96c040c3867a37ae0440a": {
                 "date": "Wed Apr  3 16:33:17 2013", 
                 "note": "", 
