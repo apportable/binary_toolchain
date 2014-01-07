@@ -7,6 +7,12 @@
                 "date": "Tue May 28 23:22:34 2013", 
                 "note": "", 
                 "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/linux-x86/6e57b996a16a1099e26b7ba609383ad581ab6fe8/android-ndk-r8d.1.tgz"
+            }, 
+            "r9c": {
+                "date": "Tue Jan  7 20:30:59 2014", 
+                "note": "", 
+                "sha1": "d1102fde03fa1e801376748d66a725f0089d42e2", 
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/linux-x86/54a359903f41950babc70e0fc2646118c6bea676/android-ndk-r9c.1.tgz"
             }
         }
     }, 
