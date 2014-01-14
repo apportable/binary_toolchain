@@ -166,6 +166,18 @@
             }
         }
     }, 
+    "ninja": {
+        "current": "315d897710c6ca6e7df7d3b0bf68879356841c5d", 
+        "stable": "315d897710c6ca6e7df7d3b0bf68879356841c5d", 
+        "versions": {
+            "315d897710c6ca6e7df7d3b0bf68879356841c5d": {
+                "date": "Mon Jan 13 17:06:46 2014", 
+                "note": "", 
+                "sha1": "587a949a731efe28d2a1983fdd4dc08866b0af50", 
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/788caadcfe1e9a10a150c89ec10e96ba233388f7/ninja-315d897710c6ca6e7df7d3b0bf68879356841c5d.tgz"
+            }
+        }
+    }, 
     "profiler": {
         "current": "c905419b4766ef76d2eab8d17e98ee185f7e911c", 
         "stable": "c905419b4766ef76d2eab8d17e98ee185f7e911c", 
@@ -187,6 +199,18 @@
                 "note": "", 
                 "sha1": "fdaca571cf783590a0aca06236ed830f8b60650b", 
                 "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/17a76b79a8eeb58be6fadb710fe161972acfb670/vorbis-tools-0c2e4c653c107b53e366ad8d352839dfca8495b0.tgz"
+            }
+        }
+    }, 
+    "zipbuilder": {
+        "current": "d50bbc3597ad48e12cdf9214d4ff532873f25b19", 
+        "stable": "d50bbc3597ad48e12cdf9214d4ff532873f25b19", 
+        "versions": {
+            "d50bbc3597ad48e12cdf9214d4ff532873f25b19": {
+                "date": "Mon Jan 13 17:06:46 2014", 
+                "note": "", 
+                "sha1": "3de99833453a78b83715e35c11ec41f9028af235", 
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/788caadcfe1e9a10a150c89ec10e96ba233388f7/zipbuilder-d50bbc3597ad48e12cdf9214d4ff532873f25b19.tgz"
             }
         }
     }

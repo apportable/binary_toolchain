@@ -74,5 +74,29 @@
                 "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/linux-x86/853cc5332d89d81beae37a80bb024ee2b9f55a85/m4-e447db581a4b3d4655ad62ea85d0445342c4ac6a.tgz"
             }
         }
+    }, 
+    "ninja": {
+        "current": "315d897710c6ca6e7df7d3b0bf68879356841c5d", 
+        "stable": "315d897710c6ca6e7df7d3b0bf68879356841c5d", 
+        "versions": {
+            "315d897710c6ca6e7df7d3b0bf68879356841c5d": {
+                "date": "Tue Jan 14 00:06:39 2014", 
+                "note": "", 
+                "sha1": "ecc7f617373a4bbf6ad1b6156fa2f02697fe2944", 
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/linux-x86/788caadcfe1e9a10a150c89ec10e96ba233388f7/ninja-315d897710c6ca6e7df7d3b0bf68879356841c5d.tgz"
+            }
+        }
+    }, 
+    "zipbuilder": {
+        "current": "d50bbc3597ad48e12cdf9214d4ff532873f25b19", 
+        "stable": "d50bbc3597ad48e12cdf9214d4ff532873f25b19", 
+        "versions": {
+            "d50bbc3597ad48e12cdf9214d4ff532873f25b19": {
+                "date": "Tue Jan 14 00:06:39 2014", 
+                "note": "", 
+                "sha1": "799a791c65a9fce5acb1653afd0fa4e03b461f49", 
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/linux-x86/788caadcfe1e9a10a150c89ec10e96ba233388f7/zipbuilder-d50bbc3597ad48e12cdf9214d4ff532873f25b19.tgz"
+            }
+        }
     }
 }
