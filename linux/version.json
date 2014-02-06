@@ -20,6 +20,12 @@
         "current": "sdk-r21.0.1.1", 
         "stable": "sdk-r21.0.1.1", 
         "versions": {
+            "r22.3.1": {
+                "date": "Wed Feb  5 23:42:21 2014", 
+                "note": "", 
+                "sha1": "f114ca5ccf5e5253fc5b5f95341ce740bd0ea401", 
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/linux-x86/a207fa6468a1a975448e424f057b0bed42c3ce93/android-sdk-r22.3.1.tgz"
+            }, 
             "sdk-r21.0.1.1": {
                 "date": "Tue May 28 23:22:34 2013", 
                 "note": "", 

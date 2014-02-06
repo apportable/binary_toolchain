@@ -50,6 +50,12 @@
                 "note": "", 
                 "sha1": "530d6e7ebc75d377aef35256f635c65569ed480c", 
                 "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/7c747b48e5556e0edbe38e492b5749f5b627041c/android-sdk-r21.0.1.1.tgz"
+            }, 
+            "r22.3.1": {
+                "date": "Wed Feb  5 16:05:14 2014", 
+                "note": "", 
+                "sha1": "5f5545e6baa10fc0efcad06c8bfc752233efee49", 
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/a207fa6468a1a975448e424f057b0bed42c3ce93/android-sdk-r22.3.1.tgz"
             }
         }
     }, 
