@@ -209,14 +209,20 @@
         }
     }, 
     "zipbuilder": {
-        "current": "d50bbc3597ad48e12cdf9214d4ff532873f25b19", 
-        "stable": "d50bbc3597ad48e12cdf9214d4ff532873f25b19", 
+        "current": "72d7486f6e817c63457b6e5b787fc75174d603ba", 
+        "stable": "72d7486f6e817c63457b6e5b787fc75174d603ba", 
         "versions": {
             "d50bbc3597ad48e12cdf9214d4ff532873f25b19": {
                 "date": "Mon Jan 13 17:06:46 2014", 
                 "note": "", 
                 "sha1": "3de99833453a78b83715e35c11ec41f9028af235", 
                 "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/788caadcfe1e9a10a150c89ec10e96ba233388f7/zipbuilder-d50bbc3597ad48e12cdf9214d4ff532873f25b19.tgz"
+            },
+            "72d7486f6e817c63457b6e5b787fc75174d603ba": {
+                "date": "Sat Feb  8 20:45:15 2014",
+                "note": "",
+                "sha1": "beeb67135402d4d3c025592678469689244a33f5",
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/45723c48ceacab6bf6d0b1a01b938060649f184b/zipbuilder-72d7486f6e817c63457b6e5b787fc75174d603ba.tgz"
             }
         }
     }
