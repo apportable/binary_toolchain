@@ -13,6 +13,12 @@
                 "note": "", 
                 "sha1": "d1102fde03fa1e801376748d66a725f0089d42e2", 
                 "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/linux-x86/54a359903f41950babc70e0fc2646118c6bea676/android-ndk-r9c.1.tgz"
+            }, 
+            "r9c.2": {
+                "date": "Wed Feb 19 08:55:36 2014", 
+                "note": "", 
+                "sha1": "50e2fff1905bce93d110d752a4cfbd3019dc139a", 
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/linux-x86/f7a6ced642cea130a441fd9b8e805c8962cf6642/android-ndk-r9c.2.tgz"
             }
         }
     }, 
