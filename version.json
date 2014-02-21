@@ -146,6 +146,12 @@
                 "sha1": "f75dce2a2e0aed0f802c7b50b24de7f47604c6ed", 
                 "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/76abc91b312b560d55da928091d48bab50d5f654/gdb-a0aeb55ac44b11b83707fedf19bac41b616948c0.tgz"
             }, 
+            "b5f29d65da6903ad0570d0c4a887c513367d2778": {
+                "date": "Thu Feb 20 19:39:15 2014", 
+                "note": "", 
+                "sha1": "58355d6983420537dc8bab72bd2c818a0de40def", 
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/e0f621482827e30f896180cb57317ddea83876d1/gdb-b5f29d65da6903ad0570d0c4a887c513367d2778.tgz"
+            }, 
             "ee42cf949ec7ce4e3cf2ab0405fd394f29b27e40": {
                 "date": "Sat Feb 23 19:47:47 2013", 
                 "note": "", 
