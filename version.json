@@ -102,8 +102,8 @@
         }
     }, 
     "gdb": {
-        "current": "4e9eedd60f78ce91b4f71b222299ef3cf7d765d2", 
-        "stable": "69461fd8b13e6523edbc1174b2e268c4b691d5ba", 
+        "current": "b5f29d65da6903ad0570d0c4a887c513367d2778", 
+        "stable": "b5f29d65da6903ad0570d0c4a887c513367d2778", 
         "versions": {
             "4e639d65677bb04a16bd74a6ceb923855ac81c97": {
                 "date": "Thu May 30 17:49:10 2013", 
