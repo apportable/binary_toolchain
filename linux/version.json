@@ -103,6 +103,12 @@
         "current": "d50bbc3597ad48e12cdf9214d4ff532873f25b19", 
         "stable": "d50bbc3597ad48e12cdf9214d4ff532873f25b19", 
         "versions": {
+            "9fdeb23bd4b05cedba3883420043a9a922807356": {
+                "date": "Mon Mar 24 23:28:37 2014", 
+                "note": "", 
+                "sha1": "053c95e91092cd8cf8bcf10d21c41dc33e14d0a7", 
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/linux-x86/7fdfac9ad9b6db61f26788192d1b0fba421d414f/zipbuilder-9fdeb23bd4b05cedba3883420043a9a922807356.tgz"
+            }, 
             "d50bbc3597ad48e12cdf9214d4ff532873f25b19": {
                 "date": "Tue Jan 14 00:06:39 2014", 
                 "note": "", 
