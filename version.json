@@ -221,8 +221,8 @@
         }
     }, 
     "zipbuilder": {
-        "current": "72d7486f6e817c63457b6e5b787fc75174d603ba", 
-        "stable": "72d7486f6e817c63457b6e5b787fc75174d603ba", 
+        "current": "9fdeb23bd4b05cedba3883420043a9a922807356", 
+        "stable": "9fdeb23bd4b05cedba3883420043a9a922807356", 
         "versions": {
             "72d7486f6e817c63457b6e5b787fc75174d603ba": {
                 "date": "Sat Feb  8 20:45:15 2014", 
