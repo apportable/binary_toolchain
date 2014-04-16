@@ -38,6 +38,12 @@
                 "note": "", 
                 "sha1": "b61d45960d75811f8ce6f241ed4b8765b7aaeb58", 
                 "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/f7a6ced642cea130a441fd9b8e805c8962cf6642/android-ndk-r9c.2.tgz"
+            }, 
+            "r9c.3": {
+                "date": "Wed Apr 16 00:41:58 2014", 
+                "note": "", 
+                "sha1": "b38cb0367b615fa60454e1fb537442a95f966af7", 
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/4044680c9b50315b0d453e7767f406e5b29a2c22/android-ndk-r9c.3.tgz"
             }
         }
     }, 
