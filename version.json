@@ -38,6 +38,12 @@
                 "note": "", 
                 "sha1": "b61d45960d75811f8ce6f241ed4b8765b7aaeb58", 
                 "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/f7a6ced642cea130a441fd9b8e805c8962cf6642/android-ndk-r9c.2.tgz"
+            }, 
+            "r9c.3": {
+                "date": "Wed Apr 16 00:41:58 2014", 
+                "note": "", 
+                "sha1": "b38cb0367b615fa60454e1fb537442a95f966af7", 
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/4044680c9b50315b0d453e7767f406e5b29a2c22/android-ndk-r9c.3.tgz"
             }
         }
     }, 
@@ -74,6 +80,12 @@
                 "note": "", 
                 "sha1": "617393f7b3d9443f73cbf0f7674f5baf224ebe1c", 
                 "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/003/clang-06017c71300e33419f46b46f350192b6032e7e0d.tgz"
+            }, 
+            "6df22f65a93569d0c195c8112396184a2c012959": {
+                "date": "Sat Apr  5 18:44:10 2014", 
+                "note": "", 
+                "sha1": "6ca00757d43da012da2e2085c7bfe6b0ac313c2a", 
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/1212d5bbcdd5183fb90eea759ce7dd756a3f68f6/clang-6df22f65a93569d0c195c8112396184a2c012959.tgz"
             }, 
             "7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e": {
                 "date": "Thu May 23 23:41:34 2013", 
