@@ -71,18 +71,6 @@
             }
         }
     }, 
-    "ApportableAndroidHelper": {
-        "current": "aee4d5b8b198a660d0955730eb9fbec1f5db3339", 
-        "stable": "aee4d5b8b198a660d0955730eb9fbec1f5db3339", 
-        "versions": {
-            "aee4d5b8b198a660d0955730eb9fbec1f5db3339": {
-                "date": "Thu Apr 24 19:33:05 2014", 
-                "note": "", 
-                "sha1": "b9fbb48718cb9b89600e9cfbd84a134884fec17f", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/e6cb00305945b550806f6fc27904e27703a4108b/ApportableAndroidHelper-aee4d5b8b198a660d0955730eb9fbec1f5db3339.tgz"
-            }
-        }
-    }, 
     "clang": {
         "current": "7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e", 
         "stable": "7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e", 
