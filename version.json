@@ -70,7 +70,19 @@
                 "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/a207fa6468a1a975448e424f057b0bed42c3ce93/android-sdk-r22.3.1.tgz"
             }
         }
-    }, 
+    },
+    "apportable-android-helper": {
+        "current": "aee4d5b8b198a660d0955730eb9fbec1f5db3339",
+        "stable": "aee4d5b8b198a660d0955730eb9fbec1f5db3339",
+        "versions": {
+            "aee4d5b8b198a660d0955730eb9fbec1f5db3339": {
+                "date": "Fri Apr 25 16:03:05 2014",
+                "note": "",
+                "sha1": "548ae5920a4caf17cb54d59babc7478268f61353",
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/48d670a6d33d94d21dfed78abb23babb87845ffb/apportable-android-helper-aee4d5b8b198a660d0955730eb9fbec1f5db3339.tgz"
+            }
+        }
+    },
     "clang": {
         "current": "7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e", 
         "stable": "7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e", 
