@@ -83,6 +83,18 @@
             }
         }
     },
+    "binutils": {
+        "current": "882fc3c64b7a61301965e3db8164134abfe595f6",
+        "stable": "882fc3c64b7a61301965e3db8164134abfe595f6",
+        "versions": {
+            "882fc3c64b7a61301965e3db8164134abfe595f6": {
+                "date": "Mon Apr 28 15:46:19 2014",
+                "note": "",
+                "sha1": "44e83e93ce1c877ff8243b97ff1a6899a6fecc46",
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/bde8ddc36798bec68cf575495a9fc2fdaebdca2a/binutils-882fc3c64b7a61301965e3db8164134abfe595f6.tgz"
+            }
+        }
+    },
     "clang": {
         "current": "7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e", 
         "stable": "7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e", 
