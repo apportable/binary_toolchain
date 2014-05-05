@@ -87,6 +87,12 @@
         "current": "882fc3c64b7a61301965e3db8164134abfe595f6", 
         "stable": "882fc3c64b7a61301965e3db8164134abfe595f6", 
         "versions": {
+            "51cdd75fc08c1183428c97ef6b54cfd47c34d8d3": {
+                "date": "Mon May  5 15:25:16 2014", 
+                "note": "", 
+                "sha1": "43dd0b80cc7955e360c05cb7796ec35250c889d4", 
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/f55d9b4e4e19939bfc2232241eccbd0fd0fe34c3/binutils-51cdd75fc08c1183428c97ef6b54cfd47c34d8d3.tgz"
+            }, 
             "882fc3c64b7a61301965e3db8164134abfe595f6": {
                 "date": "Mon Apr 28 15:46:19 2014", 
                 "note": "", 
@@ -146,6 +152,12 @@
                 "note": "", 
                 "sha1": "2c24c49c3c53070932c834ecf594e535e4e5c754", 
                 "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/6c3401fdb520697c73f73443e2dec3af4c2c242f/clang-c250d8b6c0aba5ae481526606084bb3112c3e6ff.tgz"
+            }, 
+            "c710f9f966c5807046fda582a2359d95d978982e": {
+                "date": "Mon May  5 15:25:16 2014", 
+                "note": "", 
+                "sha1": "7d0f85012fc614d6dba33fd5ba077d800932fada", 
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/f55d9b4e4e19939bfc2232241eccbd0fd0fe34c3/clang-c710f9f966c5807046fda582a2359d95d978982e.tgz"
             }, 
             "df01e9f85c0c4e60dafc7aca61982ee7a32ffd1d": {
                 "date": "Thu Apr 24 19:33:05 2014", 
