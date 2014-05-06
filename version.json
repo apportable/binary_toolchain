@@ -84,14 +84,23 @@
         }
     },
     "binutils": {
-        "current": "882fc3c64b7a61301965e3db8164134abfe595f6",
-        "stable": "882fc3c64b7a61301965e3db8164134abfe595f6",
+        "current": "51cdd75fc08c1183428c97ef6b54cfd47c34d8d3",
+        "stable": "51cdd75fc08c1183428c97ef6b54cfd47c34d8d3",
         "versions": {
             "882fc3c64b7a61301965e3db8164134abfe595f6": {
                 "date": "Mon Apr 28 15:46:19 2014",
                 "note": "",
                 "sha1": "44e83e93ce1c877ff8243b97ff1a6899a6fecc46",
                 "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/bde8ddc36798bec68cf575495a9fc2fdaebdca2a/binutils-882fc3c64b7a61301965e3db8164134abfe595f6.tgz"
+            }
+        },
+        
+        "versions": {
+            "51cdd75fc08c1183428c97ef6b54cfd47c34d8d3": {
+                "date": "Mon May  5 19:18:31 2014",
+                "note": "",
+                "sha1": "e5444eabdf45e286f060158dc8b4824b75f8520f",
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/1aa68e45a67407b952a1f9db2f967c96d692d432/binutils-51cdd75fc08c1183428c97ef6b54cfd47c34d8d3.tgz"
             }
         }
     },
