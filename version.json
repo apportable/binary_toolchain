@@ -7,7 +7,7 @@
                 "date": "Wed Jun 12 23:28:06 2013", 
                 "note": "", 
                 "sha1": "aeb137d31c6433a8643e1a49ded9f9759b988a33", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/41b5c62d39b8a38f22f34320a8001a43016db545/adb-cd96bfaea0f38a2de67e478463b24a4394be2cb3.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/41b5c62d39b8a38f22f34320a8001a43016db545/adb-cd96bfaea0f38a2de67e478463b24a4394be2cb3.tgz"
             }
         }
     }, 
@@ -19,31 +19,31 @@
                 "date": "Sat Feb 23 19:47:47 2013", 
                 "note": "", 
                 "sha1": "697cd224c945bc2b1e8beb303fca37810ca0a91d", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/003/android-ndk-r8d.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/003/android-ndk-r8d.tgz"
             }, 
             "r8d.1": {
                 "date": "Wed May 8 00:38:36 2013", 
                 "note": "", 
                 "sha1": "21f0db90ee77181a702c4041ce4e4a7cb1b39722", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/7c747b48e5556e0edbe38e492b5749f5b627041c/android-ndk-r8d.1.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/7c747b48e5556e0edbe38e492b5749f5b627041c/android-ndk-r8d.1.tgz"
             }, 
             "r9c": {
                 "date": "Tue Jan  7 11:31:51 2014", 
                 "note": "", 
                 "sha1": "243d286bf43d76c2e678de2370021785d6169aa1", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/54a359903f41950babc70e0fc2646118c6bea676/android-ndk-r9c.1.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/54a359903f41950babc70e0fc2646118c6bea676/android-ndk-r9c.1.tgz"
             }, 
             "r9c.2": {
                 "date": "Wed Feb 19 14:36:32 2014", 
                 "note": "", 
                 "sha1": "b61d45960d75811f8ce6f241ed4b8765b7aaeb58", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/f7a6ced642cea130a441fd9b8e805c8962cf6642/android-ndk-r9c.2.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/f7a6ced642cea130a441fd9b8e805c8962cf6642/android-ndk-r9c.2.tgz"
             }, 
             "r9c.3": {
                 "date": "Wed Apr 16 00:41:58 2014", 
                 "note": "", 
                 "sha1": "b38cb0367b615fa60454e1fb537442a95f966af7", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/4044680c9b50315b0d453e7767f406e5b29a2c22/android-ndk-r9c.3.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/4044680c9b50315b0d453e7767f406e5b29a2c22/android-ndk-r9c.3.tgz"
             }
         }
     }, 
@@ -55,19 +55,19 @@
                 "date": "Sat Feb 23 19:47:47 2013", 
                 "note": "", 
                 "sha1": "fa68d6e5b597ef99786c1e6323b81ed2a2c28c15", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/003/android-sdk-r21.0.1.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/003/android-sdk-r21.0.1.tgz"
             }, 
             "r21.0.1.1": {
                 "date": "Wed May 8 00:38:36 2013", 
                 "note": "", 
                 "sha1": "530d6e7ebc75d377aef35256f635c65569ed480c", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/7c747b48e5556e0edbe38e492b5749f5b627041c/android-sdk-r21.0.1.1.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/7c747b48e5556e0edbe38e492b5749f5b627041c/android-sdk-r21.0.1.1.tgz"
             }, 
             "r22.3.1": {
                 "date": "Wed Feb  5 16:05:14 2014", 
                 "note": "", 
                 "sha1": "5f5545e6baa10fc0efcad06c8bfc752233efee49", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/a207fa6468a1a975448e424f057b0bed42c3ce93/android-sdk-r22.3.1.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/a207fa6468a1a975448e424f057b0bed42c3ce93/android-sdk-r22.3.1.tgz"
             }
         }
     }, 
@@ -79,7 +79,7 @@
                 "date": "Fri Apr 25 16:03:05 2014", 
                 "note": "", 
                 "sha1": "548ae5920a4caf17cb54d59babc7478268f61353", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/48d670a6d33d94d21dfed78abb23babb87845ffb/apportable-android-helper-aee4d5b8b198a660d0955730eb9fbec1f5db3339.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/48d670a6d33d94d21dfed78abb23babb87845ffb/apportable-android-helper-aee4d5b8b198a660d0955730eb9fbec1f5db3339.tgz"
             }
         }
     }, 
@@ -91,19 +91,19 @@
                 "date": "Mon May  5 19:18:31 2014", 
                 "note": "", 
                 "sha1": "e5444eabdf45e286f060158dc8b4824b75f8520f", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/1aa68e45a67407b952a1f9db2f967c96d692d432/binutils-51cdd75fc08c1183428c97ef6b54cfd47c34d8d3.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/1aa68e45a67407b952a1f9db2f967c96d692d432/binutils-51cdd75fc08c1183428c97ef6b54cfd47c34d8d3.tgz"
             }, 
             "882fc3c64b7a61301965e3db8164134abfe595f6": {
                 "date": "Mon Apr 28 15:46:19 2014", 
                 "note": "", 
                 "sha1": "44e83e93ce1c877ff8243b97ff1a6899a6fecc46", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/bde8ddc36798bec68cf575495a9fc2fdaebdca2a/binutils-882fc3c64b7a61301965e3db8164134abfe595f6.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/bde8ddc36798bec68cf575495a9fc2fdaebdca2a/binutils-882fc3c64b7a61301965e3db8164134abfe595f6.tgz"
             }, 
             "df53d37dc178ff53f13827ea929ea89ce0d22446": {
                 "date": "Tue May  6 15:20:02 2014", 
                 "note": "", 
                 "sha1": "6a6051bb1964e5699e867ee21b26082b8db650c3", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/266d0fb1fd46b4e787909d2c04e86ded9532fec9/binutils-df53d37dc178ff53f13827ea929ea89ce0d22446.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/266d0fb1fd46b4e787909d2c04e86ded9532fec9/binutils-df53d37dc178ff53f13827ea929ea89ce0d22446.tgz"
             }
         }
     }, 
@@ -115,73 +115,73 @@
                 "date": "Sat Feb 23 19:47:47 2013", 
                 "note": "", 
                 "sha1": "617393f7b3d9443f73cbf0f7674f5baf224ebe1c", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/003/clang-06017c71300e33419f46b46f350192b6032e7e0d.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/003/clang-06017c71300e33419f46b46f350192b6032e7e0d.tgz"
             }, 
             "1301df275fc2da3bedae673f67b4b6001485c6de": {
                 "date": "Sat May 17 11:24:04 2014", 
                 "note": "", 
                 "sha1": "04b1dc4db3911732b04a3188377cd96a7ff7435a", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/81ee48ec3774a70ec2d9ba632a3910f8141c21ef/clang-1301df275fc2da3bedae673f67b4b6001485c6de.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/81ee48ec3774a70ec2d9ba632a3910f8141c21ef/clang-1301df275fc2da3bedae673f67b4b6001485c6de.tgz"
             }, 
             "36560531a9555deacbba9103f3eeae9cc10cab1f": {
                 "date": "Wed Apr 16 00:41:58 2014", 
                 "note": "", 
                 "sha1": "8dd6095a20523c7945b01c180374200b5ff411b8", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/4044680c9b50315b0d453e7767f406e5b29a2c22/clang-36560531a9555deacbba9103f3eeae9cc10cab1f.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/4044680c9b50315b0d453e7767f406e5b29a2c22/clang-36560531a9555deacbba9103f3eeae9cc10cab1f.tgz"
             }, 
             "3a243c9427d2feaf8f8193218fa2825df65112f2": {
                 "date": "Tue May  6 15:20:02 2014", 
                 "note": "", 
                 "sha1": "ca915ca59f2ca91adf1ab46d6ee8bdf7600cbc35", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/266d0fb1fd46b4e787909d2c04e86ded9532fec9/clang-3a243c9427d2feaf8f8193218fa2825df65112f2.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/266d0fb1fd46b4e787909d2c04e86ded9532fec9/clang-3a243c9427d2feaf8f8193218fa2825df65112f2.tgz"
             }, 
             "49aa4ad1758107e768212baacb7216a4756fee32": {
                 "date": "Thu May  8 23:29:41 2014", 
                 "note": "", 
                 "sha1": "0d80194737de1ea6a2393e324b3c3c612a8ed149", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/2221e1e93ec4c3af3827301aec327df6730ece13/clang-49aa4ad1758107e768212baacb7216a4756fee32.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/2221e1e93ec4c3af3827301aec327df6730ece13/clang-49aa4ad1758107e768212baacb7216a4756fee32.tgz"
             }, 
             "6df22f65a93569d0c195c8112396184a2c012959": {
                 "date": "Sat Apr  5 18:44:10 2014", 
                 "note": "", 
                 "sha1": "6ca00757d43da012da2e2085c7bfe6b0ac313c2a", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/1212d5bbcdd5183fb90eea759ce7dd756a3f68f6/clang-6df22f65a93569d0c195c8112396184a2c012959.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/1212d5bbcdd5183fb90eea759ce7dd756a3f68f6/clang-6df22f65a93569d0c195c8112396184a2c012959.tgz"
             }, 
             "7bfc3e18cb4669ebdd9ce1b0cd36d523b0df5c9e": {
                 "date": "Sat Apr 26 16:33:22 2014", 
                 "note": "", 
                 "sha1": "b15cda202da677a0fcc93756fd96b552bc25fb2b", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/b863618b43d7a2dd7d156e2ecfaf07dbbd4889f4/clang-7bfc3e18cb4669ebdd9ce1b0cd36d523b0df5c9e.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/b863618b43d7a2dd7d156e2ecfaf07dbbd4889f4/clang-7bfc3e18cb4669ebdd9ce1b0cd36d523b0df5c9e.tgz"
             }, 
             "7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e": {
                 "date": "Thu May 23 23:41:34 2013", 
                 "note": "llvm/clang 3.3", 
                 "sha1": "292415cd4ee1be874b844bceaf85732d18ab1bf4", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/6edbd910c7ea397c76aa762a63664b04e6201bbd/clang-7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/6edbd910c7ea397c76aa762a63664b04e6201bbd/clang-7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e.tgz"
             }, 
             "925804cd386ea8c186ee9c6995cd44bab3b95f14": {
                 "date": "Sun May 5 17:28:19 2013", 
                 "note": "", 
                 "sha1": "e7bfd09265e05606a6d850c9ae7395e44cb9176f", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/76abc91b312b560d55da928091d48bab50d5f654/clang-925804cd386ea8c186ee9c6995cd44bab3b95f14.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/76abc91b312b560d55da928091d48bab50d5f654/clang-925804cd386ea8c186ee9c6995cd44bab3b95f14.tgz"
             }, 
             "bee9c1e91260dd269d1a85ec5d11f1e8835c25b2": {
                 "date": "Tue Feb 26 20:37:09 2013", 
                 "note": "", 
                 "sha1": "1500041c195982fd90d8342241a77d82184b2373", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/004/clang-bee9c1e91260dd269d1a85ec5d11f1e8835c25b2.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/004/clang-bee9c1e91260dd269d1a85ec5d11f1e8835c25b2.tgz"
             }, 
             "c250d8b6c0aba5ae481526606084bb3112c3e6ff": {
                 "date": "Tue Feb 26 20:37:09 2013", 
                 "note": "", 
                 "sha1": "2c24c49c3c53070932c834ecf594e535e4e5c754", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/6c3401fdb520697c73f73443e2dec3af4c2c242f/clang-c250d8b6c0aba5ae481526606084bb3112c3e6ff.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/6c3401fdb520697c73f73443e2dec3af4c2c242f/clang-c250d8b6c0aba5ae481526606084bb3112c3e6ff.tgz"
             }, 
             "df01e9f85c0c4e60dafc7aca61982ee7a32ffd1d": {
                 "date": "Thu Apr 24 19:33:05 2014", 
                 "note": "", 
                 "sha1": "e9cf849b65a71efa5f44957289b5a33f4a39bf41", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/e6cb00305945b550806f6fc27904e27703a4108b/clang-df01e9f85c0c4e60dafc7aca61982ee7a32ffd1d.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/e6cb00305945b550806f6fc27904e27703a4108b/clang-df01e9f85c0c4e60dafc7aca61982ee7a32ffd1d.tgz"
             }
         }
     }, 
@@ -193,66 +193,66 @@
                 "date": "Thu May 30 17:49:10 2013", 
                 "note": "", 
                 "sha1": "029e5f97fb23dbe719f7170570605700c34a29b9", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/06f129f39e29888ed11ee042b57aa2e9e4fd5882/gdb-4e639d65677bb04a16bd74a6ceb923855ac81c97.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/06f129f39e29888ed11ee042b57aa2e9e4fd5882/gdb-4e639d65677bb04a16bd74a6ceb923855ac81c97.tgz"
             }, 
             "4e9eedd60f78ce91b4f71b222299ef3cf7d765d2": {
                 "date": "Fri Jan  3 14:22:17 2014", 
                 "note": "", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/8127408335dc92516d5f6f58e5f8fee59e9ef23d/gdb-4e9eedd60f78ce91b4f71b222299ef3cf7d765d2.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/8127408335dc92516d5f6f58e5f8fee59e9ef23d/gdb-4e9eedd60f78ce91b4f71b222299ef3cf7d765d2.tgz"
             }, 
             "6675c30e360ae2abc7b96c040c3867a37ae0440a": {
                 "date": "Wed Apr  3 16:33:17 2013", 
                 "note": "", 
                 "sha1": "46a14252f70bff13b732e343c2c911ac5bc5a586", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/304d3bec647ec36b6c5c22d16712f29d5bec4c39/gdb-6675c30e360ae2abc7b96c040c3867a37ae0440a.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/304d3bec647ec36b6c5c22d16712f29d5bec4c39/gdb-6675c30e360ae2abc7b96c040c3867a37ae0440a.tgz"
             }, 
             "69461fd8b13e6523edbc1174b2e268c4b691d5ba": {
                 "date": "Sat Dec 14 14:37:54 2013", 
                 "note": "", 
                 "sha1": "1289fd82452c929076d5eaa688c04efb7ad91089", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/76b62d84ca46e4ee4bedc54118f10479696323e0/gdb-69461fd8b13e6523edbc1174b2e268c4b691d5ba.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/76b62d84ca46e4ee4bedc54118f10479696323e0/gdb-69461fd8b13e6523edbc1174b2e268c4b691d5ba.tgz"
             }, 
             "8c0d2ad999905881f5d1b9dbbb8169f3a56a7171": {
                 "date": "Wed May 29 17:28:19 2013", 
                 "note": "", 
                 "sha1": "919b14e67094aa361a51594466846007a7a20167", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/6e57b996a16a1099e26b7ba609383ad581ab6fe8/gdb-8c0d2ad999905881f5d1b9dbbb8169f3a56a7171.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/6e57b996a16a1099e26b7ba609383ad581ab6fe8/gdb-8c0d2ad999905881f5d1b9dbbb8169f3a56a7171.tgz"
             }, 
             "97e48c635a8ba6806b4a37b1fb5be255b55203bb": {
                 "date": "Thu Jul 18 21:25:13 2013", 
                 "note": "", 
                 "sha1": "94078b858c39d98c3e238f206b6864c9402600e5", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/ce9e60fd87d32b27de605ef36e1c2dcfde1efeeb/gdb-97e48c635a8ba6806b4a37b1fb5be255b55203bb.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/ce9e60fd87d32b27de605ef36e1c2dcfde1efeeb/gdb-97e48c635a8ba6806b4a37b1fb5be255b55203bb.tgz"
             }, 
             "a0aeb55ac44b11b83707fedf19bac41b616948c0": {
                 "date": "Sun May 5 17:28:19 2013", 
                 "note": "", 
                 "sha1": "f75dce2a2e0aed0f802c7b50b24de7f47604c6ed", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/76abc91b312b560d55da928091d48bab50d5f654/gdb-a0aeb55ac44b11b83707fedf19bac41b616948c0.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/76abc91b312b560d55da928091d48bab50d5f654/gdb-a0aeb55ac44b11b83707fedf19bac41b616948c0.tgz"
             }, 
             "b5f29d65da6903ad0570d0c4a887c513367d2778": {
                 "date": "Thu Feb 20 19:39:15 2014", 
                 "note": "", 
                 "sha1": "58355d6983420537dc8bab72bd2c818a0de40def", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/e0f621482827e30f896180cb57317ddea83876d1/gdb-b5f29d65da6903ad0570d0c4a887c513367d2778.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/e0f621482827e30f896180cb57317ddea83876d1/gdb-b5f29d65da6903ad0570d0c4a887c513367d2778.tgz"
             }, 
             "ee42cf949ec7ce4e3cf2ab0405fd394f29b27e40": {
                 "date": "Sat Feb 23 19:47:47 2013", 
                 "note": "", 
                 "sha1": "cfaf0fb8045f511cf550fde3430e66251546def8", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/003/gdb-ee42cf949ec7ce4e3cf2ab0405fd394f29b27e40.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/003/gdb-ee42cf949ec7ce4e3cf2ab0405fd394f29b27e40.tgz"
             }, 
             "fcb36ce2778272469bf28e91280e81838c8373de": {
                 "date": "Sat Feb 23 19:47:47 2013", 
                 "note": "", 
                 "sha1": "6e7759c215c8c31a680f2d0f4bb20dbeaeaa6273", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/6c3401fdb520697c73f73443e2dec3af4c2c242f/gdb-fcb36ce2778272469bf28e91280e81838c8373de.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/6c3401fdb520697c73f73443e2dec3af4c2c242f/gdb-fcb36ce2778272469bf28e91280e81838c8373de.tgz"
             }, 
             "ff0611b8b721b3bf393c655c7d147de52cc850ac": {
                 "date": "Thu Jun 27 14:58:40 2013", 
                 "note": "", 
                 "sha1": "27fd19b7221d3846c62f9f1a01663d666b58c73e", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/086044017401a1d04d629f5454d74f20ffdb3ddf/gdb-ff0611b8b721b3bf393c655c7d147de52cc850ac.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/086044017401a1d04d629f5454d74f20ffdb3ddf/gdb-ff0611b8b721b3bf393c655c7d147de52cc850ac.tgz"
             }
         }
     }, 
@@ -264,7 +264,7 @@
                 "date": "Mon Jun 3 19:13:45 2013", 
                 "note": "", 
                 "sha1": "45fe0f7d0f44bb839aae447b879bec44781afc2c", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/853cc5332d89d81beae37a80bb024ee2b9f55a85/m4-e447db581a4b3d4655ad62ea85d0445342c4ac6a.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/853cc5332d89d81beae37a80bb024ee2b9f55a85/m4-e447db581a4b3d4655ad62ea85d0445342c4ac6a.tgz"
             }
         }
     }, 
@@ -276,7 +276,7 @@
                 "date": "Mon Jan 13 17:06:46 2014", 
                 "note": "", 
                 "sha1": "587a949a731efe28d2a1983fdd4dc08866b0af50", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/788caadcfe1e9a10a150c89ec10e96ba233388f7/ninja-315d897710c6ca6e7df7d3b0bf68879356841c5d.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/788caadcfe1e9a10a150c89ec10e96ba233388f7/ninja-315d897710c6ca6e7df7d3b0bf68879356841c5d.tgz"
             }
         }
     }, 
@@ -288,7 +288,7 @@
                 "date": "Tue Jun 4 13:08:24 2013", 
                 "note": "1.01", 
                 "sha1": "f9dfa69e61b50f14e7f860e8bca69cc547f76d67", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/075e4faf71ba7cf2b911ef432459ffd0f2fa61b8/Profiler-c905419b4766ef76d2eab8d17e98ee185f7e911c.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/075e4faf71ba7cf2b911ef432459ffd0f2fa61b8/Profiler-c905419b4766ef76d2eab8d17e98ee185f7e911c.tgz"
             }
         }
     }, 
@@ -300,7 +300,7 @@
                 "date": "Tue May 21 10:26:49 2013", 
                 "note": "", 
                 "sha1": "fdaca571cf783590a0aca06236ed830f8b60650b", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/17a76b79a8eeb58be6fadb710fe161972acfb670/vorbis-tools-0c2e4c653c107b53e366ad8d352839dfca8495b0.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/17a76b79a8eeb58be6fadb710fe161972acfb670/vorbis-tools-0c2e4c653c107b53e366ad8d352839dfca8495b0.tgz"
             }
         }
     }, 
@@ -312,19 +312,19 @@
                 "date": "Sat Feb  8 20:45:15 2014", 
                 "note": "", 
                 "sha1": "beeb67135402d4d3c025592678469689244a33f5", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/45723c48ceacab6bf6d0b1a01b938060649f184b/zipbuilder-72d7486f6e817c63457b6e5b787fc75174d603ba.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/45723c48ceacab6bf6d0b1a01b938060649f184b/zipbuilder-72d7486f6e817c63457b6e5b787fc75174d603ba.tgz"
             }, 
             "9fdeb23bd4b05cedba3883420043a9a922807356": {
                 "date": "Mon Mar 24 16:27:00 2014", 
                 "note": "", 
                 "sha1": "3a61d90fb27d92dee2b19362f324cfe3f05920e4", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/7fdfac9ad9b6db61f26788192d1b0fba421d414f/zipbuilder-9fdeb23bd4b05cedba3883420043a9a922807356.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/7fdfac9ad9b6db61f26788192d1b0fba421d414f/zipbuilder-9fdeb23bd4b05cedba3883420043a9a922807356.tgz"
             }, 
             "d50bbc3597ad48e12cdf9214d4ff532873f25b19": {
                 "date": "Mon Jan 13 17:06:46 2014", 
                 "note": "", 
                 "sha1": "3de99833453a78b83715e35c11ec41f9028af235", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/788caadcfe1e9a10a150c89ec10e96ba233388f7/zipbuilder-d50bbc3597ad48e12cdf9214d4ff532873f25b19.tgz"
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/788caadcfe1e9a10a150c89ec10e96ba233388f7/zipbuilder-d50bbc3597ad48e12cdf9214d4ff532873f25b19.tgz"
             }
         }
     }
