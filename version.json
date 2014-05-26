@@ -106,7 +106,19 @@
                 "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/266d0fb1fd46b4e787909d2c04e86ded9532fec9/binutils-df53d37dc178ff53f13827ea929ea89ce0d22446.tgz"
             }
         }
-    }, 
+    },
+    "ccache": {
+        "current": "c0b40b8b634ff966a097598447317a9f7754a53a",
+        "stable": "c0b40b8b634ff966a097598447317a9f7754a53a",
+        "versions": {
+            "c0b40b8b634ff966a097598447317a9f7754a53a": {
+                "date": "Sat May 17 10:14:23 2014",
+                "note": "",
+                "sha1": "0542a798659ba9b4aa13a624e766bf2a85476422",
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/81ee48ec3774a70ec2d9ba632a3910f8141c21ef/ccache-c0b40b8b634ff966a097598447317a9f7754a53a.tgz"
+            }
+        }
+    },
     "clang": {
         "current": "7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e", 
         "stable": "7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e", 
