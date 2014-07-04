@@ -72,17 +72,17 @@
         }
     }, 
     "apportable-android-helper": {
-        "current": "aee4d5b8b198a660d0955730eb9fbec1f5db3339", 
-        "stable": "aee4d5b8b198a660d0955730eb9fbec1f5db3339", 
+        "current": "aa719ae962ceb4890e6ce57376c883e2e57d26f5",
+        "stable": "aa719ae962ceb4890e6ce57376c883e2e57d26f5",
         "versions": {
-            "aee4d5b8b198a660d0955730eb9fbec1f5db3339": {
-                "date": "Fri Apr 25 16:03:05 2014", 
-                "note": "", 
-                "sha1": "548ae5920a4caf17cb54d59babc7478268f61353", 
-                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/48d670a6d33d94d21dfed78abb23babb87845ffb/apportable-android-helper-aee4d5b8b198a660d0955730eb9fbec1f5db3339.tgz"
+            "aa719ae962ceb4890e6ce57376c883e2e57d26f5": {
+                "date": "Fri Jul  4 13:36:44 2014",
+                "note": "",
+                "sha1": "687c4ce694129e6b3088852165133a244f6c0bf5",
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/881018cbeb60a405fd634aab2588792d35494626/apportable-android-helper-aa719ae962ceb4890e6ce57376c883e2e57d26f5.tgz"
             }
         }
-    }, 
+    },
     "binutils": {
         "current": "df53d37dc178ff53f13827ea929ea89ce0d22446", 
         "stable": "df53d37dc178ff53f13827ea929ea89ce0d22446", 
