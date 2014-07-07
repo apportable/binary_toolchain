@@ -194,6 +194,12 @@
                 "note": "", 
                 "sha1": "e9cf849b65a71efa5f44957289b5a33f4a39bf41", 
                 "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/e6cb00305945b550806f6fc27904e27703a4108b/clang-df01e9f85c0c4e60dafc7aca61982ee7a32ffd1d.tgz"
+            },
+            "15517b90b2d5e7faa9abb6f8b1959b56abc53ad0": {
+                "date": "Mon Jul  7 13:35:46 2014",
+                "note": "Clang 3.5 (BridgeKit)",
+                "sha1": "9e20ff6d659d24ee7c52053225091fe8fdf41bd7",
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/40277aea91c60c778cf18754de3accb6281f6957/clang-15517b90b2d5e7faa9abb6f8b1959b56abc53ad0.tgz"
             }
         }
     }, 
