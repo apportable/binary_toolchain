@@ -72,17 +72,17 @@
         }
     }, 
     "apportable-android-helper": {
-        "current": "aa719ae962ceb4890e6ce57376c883e2e57d26f5",
-        "stable": "aa719ae962ceb4890e6ce57376c883e2e57d26f5",
+        "current": "aa719ae962ceb4890e6ce57376c883e2e57d26f5", 
+        "stable": "aa719ae962ceb4890e6ce57376c883e2e57d26f5", 
         "versions": {
             "aa719ae962ceb4890e6ce57376c883e2e57d26f5": {
-                "date": "Fri Jul  4 13:36:44 2014",
-                "note": "",
-                "sha1": "687c4ce694129e6b3088852165133a244f6c0bf5",
+                "date": "Fri Jul  4 13:36:44 2014", 
+                "note": "", 
+                "sha1": "687c4ce694129e6b3088852165133a244f6c0bf5", 
                 "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/881018cbeb60a405fd634aab2588792d35494626/apportable-android-helper-aa719ae962ceb4890e6ce57376c883e2e57d26f5.tgz"
             }
         }
-    },
+    }, 
     "binutils": {
         "current": "df53d37dc178ff53f13827ea929ea89ce0d22446", 
         "stable": "df53d37dc178ff53f13827ea929ea89ce0d22446", 
@@ -134,6 +134,18 @@
                 "note": "", 
                 "sha1": "04b1dc4db3911732b04a3188377cd96a7ff7435a", 
                 "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/81ee48ec3774a70ec2d9ba632a3910f8141c21ef/clang-1301df275fc2da3bedae673f67b4b6001485c6de.tgz"
+            }, 
+            "15517b90b2d5e7faa9abb6f8b1959b56abc53ad0": {
+                "date": "Mon Jul  7 13:35:46 2014", 
+                "note": "Clang 3.5 (BridgeKit)", 
+                "sha1": "9e20ff6d659d24ee7c52053225091fe8fdf41bd7", 
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/40277aea91c60c778cf18754de3accb6281f6957/clang-15517b90b2d5e7faa9abb6f8b1959b56abc53ad0.tgz"
+            }, 
+            "324db925cac99a62924ab2f051b972e54915fcdc": {
+                "date": "Wed Jul  9 18:56:25 2014", 
+                "note": "Clang 3.5 (BridgeKit)", 
+                "sha1": "56879207ce94d363df0dbef30b754e48e4a5b914", 
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/9c27243ef010dc559dfc9b933515ae0819bf3ffa/clang-324db925cac99a62924ab2f051b972e54915fcdc.tgz"
             }, 
             "36560531a9555deacbba9103f3eeae9cc10cab1f": {
                 "date": "Wed Apr 16 00:41:58 2014", 
@@ -194,18 +206,6 @@
                 "note": "", 
                 "sha1": "e9cf849b65a71efa5f44957289b5a33f4a39bf41", 
                 "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/e6cb00305945b550806f6fc27904e27703a4108b/clang-df01e9f85c0c4e60dafc7aca61982ee7a32ffd1d.tgz"
-            },
-            "15517b90b2d5e7faa9abb6f8b1959b56abc53ad0": {
-                "date": "Mon Jul  7 13:35:46 2014",
-                "note": "Clang 3.5 (BridgeKit)",
-                "sha1": "9e20ff6d659d24ee7c52053225091fe8fdf41bd7",
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/40277aea91c60c778cf18754de3accb6281f6957/clang-15517b90b2d5e7faa9abb6f8b1959b56abc53ad0.tgz"
-            },
-            "324db925cac99a62924ab2f051b972e54915fcdc": {
-                "date": "Wed Jul  9 18:56:25 2014",
-                "note": "Clang 3.5 (BridgeKit)",
-                "sha1": "56879207ce94d363df0dbef30b754e48e4a5b914",
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/9c27243ef010dc559dfc9b933515ae0819bf3ffa/clang-324db925cac99a62924ab2f051b972e54915fcdc.tgz"
             }
         }
     }, 
