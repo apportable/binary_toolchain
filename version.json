@@ -141,6 +141,12 @@
                 "sha1": "9e20ff6d659d24ee7c52053225091fe8fdf41bd7", 
                 "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/40277aea91c60c778cf18754de3accb6281f6957/clang-15517b90b2d5e7faa9abb6f8b1959b56abc53ad0.tgz"
             }, 
+            "1999c8ef68183e6673f3d3955b3bac7e2ba6a8a5": {
+                "date": "Thu Jul 31 11:00:18 2014", 
+                "note": "", 
+                "sha1": "521ed1adc17a6e1a34e40c47f659ebdc699d1fdf", 
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/cc50971ae190bc63ff0587aff39e7b185c354f4d/clang-1999c8ef68183e6673f3d3955b3bac7e2ba6a8a5.tgz"
+            }, 
             "324db925cac99a62924ab2f051b972e54915fcdc": {
                 "date": "Wed Jul  9 18:56:25 2014", 
                 "note": "Clang 3.5 (BridgeKit)", 
@@ -177,6 +183,12 @@
                 "sha1": "b15cda202da677a0fcc93756fd96b552bc25fb2b", 
                 "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/b863618b43d7a2dd7d156e2ecfaf07dbbd4889f4/clang-7bfc3e18cb4669ebdd9ce1b0cd36d523b0df5c9e.tgz"
             }, 
+            "7d2926a69aa8cc0e8f824ac1a2acfc7e3c6108f6": {
+                "date": "Mon Jul 21 16:52:06 2014", 
+                "note": "Clang 3.5 (BridgeKit)", 
+                "sha1": "d4755f9c778742f92a10a249c561f01b0ab4eefb", 
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/f9c5c1a378008dc08d2fe2739978bf9ad150c010/clang-7d2926a69aa8cc0e8f824ac1a2acfc7e3c6108f6.tgz"
+            }, 
             "7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e": {
                 "date": "Thu May 23 23:41:34 2013", 
                 "note": "llvm/clang 3.3", 
@@ -206,12 +218,6 @@
                 "note": "", 
                 "sha1": "e9cf849b65a71efa5f44957289b5a33f4a39bf41", 
                 "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/e6cb00305945b550806f6fc27904e27703a4108b/clang-df01e9f85c0c4e60dafc7aca61982ee7a32ffd1d.tgz"
-            },
-            "7d2926a69aa8cc0e8f824ac1a2acfc7e3c6108f6": {
-                "date": "Mon Jul 21 16:52:06 2014",
-                "note": "Clang 3.5 (BridgeKit)",
-                "sha1": "d4755f9c778742f92a10a249c561f01b0ab4eefb",
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/f9c5c1a378008dc08d2fe2739978bf9ad150c010/clang-7d2926a69aa8cc0e8f824ac1a2acfc7e3c6108f6.tgz"
             }
         }
     }, 
