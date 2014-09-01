@@ -1,56 +1,119 @@
 {
     "android-ndk": {
-        "current": "ndk-r8d.1",
-        "stable": "ndk-r8d.1",
+        "current": "ndk-r8d.1", 
+        "stable": "ndk-r8d.1", 
         "versions": {
             "ndk-r8d.1": {
-                "date": "Tue May 28 23:22:34 2013",
-                "note": "",
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/linux-x86/6e57b996a16a1099e26b7ba609383ad581ab6fe8/android-ndk-r8d.1.tgz"
+                "date": "Tue May 28 23:22:34 2013", 
+                "note": "", 
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/linux-x86/6e57b996a16a1099e26b7ba609383ad581ab6fe8/android-ndk-r8d.1.tgz"
+            }, 
+            "r9c": {
+                "date": "Tue Jan  7 20:30:59 2014", 
+                "note": "", 
+                "sha1": "d1102fde03fa1e801376748d66a725f0089d42e2", 
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/linux-x86/54a359903f41950babc70e0fc2646118c6bea676/android-ndk-r9c.1.tgz"
+            }, 
+            "r9c.2": {
+                "date": "Wed Feb 19 08:55:36 2014", 
+                "note": "", 
+                "sha1": "50e2fff1905bce93d110d752a4cfbd3019dc139a", 
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/linux-x86/f7a6ced642cea130a441fd9b8e805c8962cf6642/android-ndk-r9c.2.tgz"
             }
         }
-    },
+    }, 
     "android-sdk": {
-        "current": "sdk-r21.0.1.1",
-        "stable": "sdk-r21.0.1.1",
+        "current": "sdk-r21.0.1.1", 
+        "stable": "sdk-r21.0.1.1", 
         "versions": {
+            "r22.3.1": {
+                "date": "Wed Feb  5 23:42:21 2014", 
+                "note": "", 
+                "sha1": "f114ca5ccf5e5253fc5b5f95341ce740bd0ea401", 
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/linux-x86/a207fa6468a1a975448e424f057b0bed42c3ce93/android-sdk-r22.3.1.tgz"
+            }, 
             "sdk-r21.0.1.1": {
-                "date": "Tue May 28 23:22:34 2013",
-                "note": "",
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/linux-x86/6e57b996a16a1099e26b7ba609383ad581ab6fe8/android-sdk-r21.0.1.1.tgz"
+                "date": "Tue May 28 23:22:34 2013", 
+                "note": "", 
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/linux-x86/6e57b996a16a1099e26b7ba609383ad581ab6fe8/android-sdk-r21.0.1.1.tgz"
             }
         }
-    },
+    }, 
     "clang": {
-        "current": "7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e",
-        "stable": "7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e",
+        "current": "ce9e60fd87d32b27de605ef36e1c2dcfde1efeeb_7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e", 
+        "stable": "ce9e60fd87d32b27de605ef36e1c2dcfde1efeeb_7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e", 
         "versions": {
             "7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e": {
-                "date": "Tue May 28 23:22:34 2013",
-                "note": "",
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/linux-x86/6e57b996a16a1099e26b7ba609383ad581ab6fe8/clang-7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e.tgz"
+                "date": "Tue Jul  2 16:19:57 2013", 
+                "note": "", 
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/linux-x86/bd6a5a03b9e114c7dd1bc29231d08a9d61215227/clang-7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e.tgz"
+            }, 
+            "925804cd386ea8c186ee9c6995cd44bab3b95f14": {
+                "date": "Sun May 5 17:28:19 2013", 
+                "note": "", 
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/linux-x86/76abc91b312b560d55da928091d48bab50d5f654/clang-925804cd386ea8c186ee9c6995cd44bab3b95f14.tgz"
+            }, 
+            "c250d8b6c0aba5ae481526606084bb3112c3e6ff": {
+                "date": "Fri Mar 29 01:55:36 2013", 
+                "note": "", 
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/linux-x86/6c3401fdb520697c73f73443e2dec3af4c2c242f/clang-c250d8b6c0aba5ae481526606084bb3112c3e6ff.tgz"
+            }, 
+            "ce9e60fd87d32b27de605ef36e1c2dcfde1efeeb_7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e": {
+                "date": "Fri Jul 19 03:25:17 2013", 
+                "note": "", 
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/linux-x86/ce9e60fd87d32b27de605ef36e1c2dcfde1efeeb/clang-7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e.tgz"
             }
         }
-    },
+    }, 
     "gdb": {
-        "current": "8c0d2ad999905881f5d1b9dbbb8169f3a56a7171",
-        "stable": "8c0d2ad999905881f5d1b9dbbb8169f3a56a7171",
+        "current": "8c0d2ad999905881f5d1b9dbbb8169f3a56a7171", 
+        "stable": "8c0d2ad999905881f5d1b9dbbb8169f3a56a7171", 
         "versions": {
             "8c0d2ad999905881f5d1b9dbbb8169f3a56a7171": {
-                "date": "Tue May 28 23:22:34 2013",
-                "note": "",
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/linux-x86/6e57b996a16a1099e26b7ba609383ad581ab6fe8/gdb-8c0d2ad999905881f5d1b9dbbb8169f3a56a7171.tgz"
+                "date": "Tue May 28 23:22:34 2013", 
+                "note": "", 
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/linux-x86/6e57b996a16a1099e26b7ba609383ad581ab6fe8/gdb-8c0d2ad999905881f5d1b9dbbb8169f3a56a7171.tgz"
             }
         }
-    },
+    }, 
     "m4": {
-        "current": "e447db581a4b3d4655ad62ea85d0445342c4ac6a",
-        "stable": "e447db581a4b3d4655ad62ea85d0445342c4ac6a",
+        "current": "e447db581a4b3d4655ad62ea85d0445342c4ac6a", 
+        "stable": "e447db581a4b3d4655ad62ea85d0445342c4ac6a", 
         "versions": {
             "e447db581a4b3d4655ad62ea85d0445342c4ac6a": {
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/linux-x86/853cc5332d89d81beae37a80bb024ee2b9f55a85/m4-e447db581a4b3d4655ad62ea85d0445342c4ac6a.tgz",
-                "date": "Mon Jun 3 19:13:45 2013",
-                "note": ""
+                "date": "Mon Jun 3 19:13:45 2013", 
+                "note": "", 
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/linux-x86/853cc5332d89d81beae37a80bb024ee2b9f55a85/m4-e447db581a4b3d4655ad62ea85d0445342c4ac6a.tgz"
+            }
+        }
+    }, 
+    "ninja": {
+        "current": "315d897710c6ca6e7df7d3b0bf68879356841c5d", 
+        "stable": "315d897710c6ca6e7df7d3b0bf68879356841c5d", 
+        "versions": {
+            "315d897710c6ca6e7df7d3b0bf68879356841c5d": {
+                "date": "Tue Jan 14 00:06:39 2014", 
+                "note": "", 
+                "sha1": "ecc7f617373a4bbf6ad1b6156fa2f02697fe2944", 
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/linux-x86/788caadcfe1e9a10a150c89ec10e96ba233388f7/ninja-315d897710c6ca6e7df7d3b0bf68879356841c5d.tgz"
+            }
+        }
+    }, 
+    "zipbuilder": {
+        "current": "9fdeb23bd4b05cedba3883420043a9a922807356", 
+        "stable": "9fdeb23bd4b05cedba3883420043a9a922807356", 
+        "versions": {
+            "9fdeb23bd4b05cedba3883420043a9a922807356": {
+                "date": "Mon Mar 24 23:28:37 2014", 
+                "note": "", 
+                "sha1": "053c95e91092cd8cf8bcf10d21c41dc33e14d0a7", 
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/linux-x86/7fdfac9ad9b6db61f26788192d1b0fba421d414f/zipbuilder-9fdeb23bd4b05cedba3883420043a9a922807356.tgz"
+            }, 
+            "d50bbc3597ad48e12cdf9214d4ff532873f25b19": {
+                "date": "Tue Jan 14 00:06:39 2014", 
+                "note": "", 
+                "sha1": "799a791c65a9fce5acb1653afd0fa4e03b461f49", 
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/linux-x86/788caadcfe1e9a10a150c89ec10e96ba233388f7/zipbuilder-d50bbc3597ad48e12cdf9214d4ff532873f25b19.tgz"
             }
         }
     }
