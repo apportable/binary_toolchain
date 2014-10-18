@@ -244,11 +244,11 @@
                     "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/a52c754763226f6bf25c575fc8e709f740817892/clang-8325e096b2a0808f0a68facf9147778a1e6b771d.tgz"
             },
             "7c0cc9b6119cc3a561f67f5944289d29667adb99": {
-                    "date": "Fri Oct 17 16:34:02 2014",
+                    "date": "Fri Oct 17 19:01:13 2014",
                     "note": "JavaObjectArrays",
-                    "sha1": "ec743341f5d2ea4a5c1ffbd357971bdebda22a2e",
+                    "sha1": "3fcb42918e967298d08e59471bdbfe070c64a8c2",
                     "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/7f63d0fa91bfe8598f579635844c71862b0660a3/clang-7c0cc9b6119cc3a561f67f5944289d29667adb99.tgz"
-            }
+                }
         }
     }, 
     "gdb": {
