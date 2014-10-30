@@ -129,6 +129,12 @@
                 "sha1": "617393f7b3d9443f73cbf0f7674f5baf224ebe1c", 
                 "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/003/clang-06017c71300e33419f46b46f350192b6032e7e0d.tgz"
             }, 
+            "0ec87f95b3d6588b45007da7be7b9e140bd4e6d9": {
+                "date": "Thu Oct 30 13:48:28 2014", 
+                "note": "Bridge dispatch", 
+                "sha1": "7a1be6bf3f6ca6487e9e6f0f24d0d3646390ea65", 
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/9f0f51cfbafe3df8c48a74e1a6b64af8ee56d11b/clang-0ec87f95b3d6588b45007da7be7b9e140bd4e6d9.tgz"
+            }, 
             "1301df275fc2da3bedae673f67b4b6001485c6de": {
                 "date": "Sat May 17 11:24:04 2014", 
                 "note": "", 
@@ -206,12 +212,6 @@
                 "note": "llvm/clang 3.3", 
                 "sha1": "292415cd4ee1be874b844bceaf85732d18ab1bf4", 
                 "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/6edbd910c7ea397c76aa762a63664b04e6201bbd/clang-7fc8b05e4f57f61dbbbe5c8e62581b0e0c42941e.tgz"
-            }, 
-            "807387ea99e42a7f1a442864992713eecf39e3ba": {
-                "date": "Sun Oct 26 13:46:27 2014", 
-                "note": "BridgeKit dispatch", 
-                "sha1": "9b4ceb77d55cf75516dda90da4197420b493b103", 
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/257bb4bdf3e6c6aa7c09aa1b3e7cacf2175d07a7/clang-807387ea99e42a7f1a442864992713eecf39e3ba.tgz"
             }, 
             "8325e096b2a0808f0a68facf9147778a1e6b771d": {
                 "date": "Thu Sep  4 16:45:40 2014", 
