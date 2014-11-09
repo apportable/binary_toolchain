@@ -68,6 +68,12 @@
                 "note": "", 
                 "sha1": "5f5545e6baa10fc0efcad06c8bfc752233efee49", 
                 "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/a207fa6468a1a975448e424f057b0bed42c3ce93/android-sdk-r22.3.1.tgz"
+            },
+            "r23.0.2": {
+                "date": "Sat Nov  8 17:35:33 2014",
+                "note": "api level 21 (Lolipop)",
+                "sha1": "68246b6aa681b21aa478dc3a5482558ccf5fcf1f",
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/a7167527406a4b04ec27b4487385470592583f27/android-sdk-r23.0.2.1.tgz"
             }
         }
     }, 
