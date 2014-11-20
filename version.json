@@ -373,6 +373,12 @@
                 "note": "1.01", 
                 "sha1": "f9dfa69e61b50f14e7f860e8bca69cc547f76d67", 
                 "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/075e4faf71ba7cf2b911ef432459ffd0f2fa61b8/Profiler-c905419b4766ef76d2eab8d17e98ee185f7e911c.tgz"
+            },
+            "8eecb30150bb333a439effbf9566a1b2939d7ca4": {
+                "date": "Wed Nov 19 18:57:13 2014",
+                "note": "Works with Android SDK r23.0.2 (API level 21, Lolipop), may not with earlier SDKs",
+                "sha1": "901a7abc6ec7487419966c372aee609caf73d73c",
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/6358dc4ef844e6e6624089b4b617cc338bd63bfc/Profiler-8eecb30150bb333a439effbf9566a1b2939d7ca4.tgz"
             }
         }
     }, 
