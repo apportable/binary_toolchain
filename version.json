@@ -273,11 +273,11 @@
                 "sha1": "5ce3f82ab55b914d99a02000b3c2066a794be7ad",
                 "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/6b2c6a3ae9e6e8c85c9ddcdb696df652fcef5d61/clang-7c2103ee44d6b89edfb09239e15490b6e9e93850.tgz"
             },
-            "d6ec6138cddc7e8caedb271e2135169e47b32957": {
-                "date": "Wed Dec 17 11:52:40 2014",
-                "note": "Bridge-disabled clang",
-                "sha1": "811e8ab6625bbea58a1704784d948cbbf61c2aed",
-                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/0a856396e3d46e504cb4aee097b98111283d82f6/clang-d6ec6138cddc7e8caedb271e2135169e47b32957.tgz"
+            "e10b45ee20313e7f14aef6985f99176a6bf2cef5": {
+                "date": "Wed Dec 17 15:09:34 2014",
+                "note": "",
+                "sha1": "faa77b5a14928c6bf62c5021f8f0d2803be7ccb9",
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/6a73f3fdda4637c277c60ba7035dd7ca3d6af53c/clang-e10b45ee20313e7f14aef6985f99176a6bf2cef5.tgz"
             }
         }
     }, 
