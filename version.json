@@ -77,7 +77,7 @@
             },
             "r23.0.2withzipalign": {
                     "date": "Tue Dec 30 16:28:43 2014",
-                    "note": "api level 21 (Lolipop) with missing zipalign tool for pre v1.1 apportable scons builds against api 21"
+                    "note": "api level 21 (Lolipop) with missing zipalign tool for pre v1.1 apportable scons builds against api 21",
                     "sha1": "00340fc760679626442828a4f2b5fe498ddc8eb6",
                     "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/96e0c5f3be148ac28e1bb9126b6b4303c07d2f15/android-sdk-r23.0.2.1.tgz"                                                                                                
             }
