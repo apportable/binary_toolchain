@@ -284,6 +284,12 @@
                 "note": "bridging disabled",
                 "sha1": "c8371f14cfd09afd92eacf5d5a71b8a0d2797878",
                 "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/6a73f3fdda4637c277c60ba7035dd7ca3d6af53c/clang-e10b45ee20313e7f14aef6985f99176a6bf2cef5.tgz"
+            },
+            "b0be573f004ae68e258d51efd706e2c6f5ce9f18": {
+                "date": "Mon Jan  5 15:06:03 2015",
+                "note": "clang_35",
+                "sha1": "77d8a987a8df5abad808478fa0aa7ddde19bb080",
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/a00f33e48449ee98fa2ac8732497d40b2f8a9dc6/clang-b0be573f004ae68e258d51efd706e2c6f5ce9f18.tgz"
             }
         }
     }, 
