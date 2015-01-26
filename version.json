@@ -338,6 +338,24 @@
                 "note": "clang35_bridgekit_disabled",
                 "sha1": "67ab8eb08e4a0ed21c7e6b19995b0ec78b3770fd",
                 "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/a4a3407565083b9f4a5663cc9b4437608a71ea24/clang-be289d072a2e3222f1c40e1c66ad6af9cda752ff.tgz"
+            },
+            "d76d0b4906aa960722baca58deb2ed074e23bd1e": {
+                "date": "Mon Jan 26 13:49:45 2015",
+                "note": "clang35_bridgekit",
+                "sha1": "60770dd46c7efd4a7bd0ded0b94ee9bddd9ca320",
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/18f97a7689d40b2b1cf3634a2c1c3c8c8eeaaa36/clang-d76d0b4906aa960722baca58deb2ed074e23bd1e.tgz"
+            },
+            "c381e6059d64bcdf7e5d5b2853279136f8f53009": {
+                "date": "Mon Jan 26 14:54:28 2015",
+                "note": "clang35_apportable",
+                "sha1": "4362a920267d963a82a857c0511956708140345a",
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/083038651392b33fe7a5a5d66fc14a3d160d4322/clang-c381e6059d64bcdf7e5d5b2853279136f8f53009.tgz"
+            },
+            "49eae4d263b348421ab0bc564f550b9960ff75b2": {
+                "date": "Mon Jan 26 14:21:53 2015",
+                "note": "clang35_bridgekit_disabled",
+                "sha1": "55c176e988a1e253fb99ab87fbe55a0181af76a7",
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/dc51e0ceb51074f66505a8d5106ed485a21191c6/clang-49eae4d263b348421ab0bc564f550b9960ff75b2.tgz"
             }
         }
     },
