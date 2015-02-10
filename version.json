@@ -455,9 +455,15 @@
         }
     },
     "profiler": {
-        "current": "4ea9b916652b70ede4bc206a462596a24e02fd14",
-        "stable": "4ea9b916652b70ede4bc206a462596a24e02fd14",
+        "current": "a5a748dbf503e15f045506e3abd404b6fcaab06d",
+        "stable": "a5a748dbf503e15f045506e3abd404b6fcaab06d",
         "versions": {
+            "a5a748dbf503e15f045506e3abd404b6fcaab06d": {
+               "date": "Mon Feb  9 18:28:22 2015",
+                "note": "Uses bundled adb (should be compatible with all version of android sdk)",
+                "sha1": "679bd9a402c3873b48206d5ad90792754d172bf6",
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/8361e7a3b9462832aae75ae9c573e7742fbce255/Profiler-a5a748dbf503e15f045506e3abd404b6fcaab06d.tgz"
+            },
             "4ea9b916652b70ede4bc206a462596a24e02fd14": {
                 "date": "Mon Jun 23 17:51:44 2014",
                 "note": "",
