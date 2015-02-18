@@ -119,6 +119,18 @@
             }
         }
     },
+    "bridgegen": {
+        "current": "0660774c2b200d9a77cbbac7c78241f26c3a11e4",
+        "stable": "0660774c2b200d9a77cbbac7c78241f26c3a11e4",
+        "versions": {
+            "0660774c2b200d9a77cbbac7c78241f26c3a11e4": {
+                "date": "Wed Feb 18 12:48:16 2015",
+                "note": "",
+                "sha1": "2fe57ac75c3a3bc48e28cad1a609f35d226aa658",
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/98a33d8ba261fe9ae557a208e56faf0c471fe355/Bridgegen-0660774c2b200d9a77cbbac7c78241f26c3a11e4.tgz"
+            }
+        }
+    },
     "ccache": {
         "current": "c0b40b8b634ff966a097598447317a9f7754a53a",
         "stable": "c0b40b8b634ff966a097598447317a9f7754a53a",
