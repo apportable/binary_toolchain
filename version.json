@@ -80,6 +80,12 @@
                     "note": "api level 21 (Lolipop) with missing zipalign tool for pre v1.1 apportable scons builds against api 21",
                     "sha1": "00340fc760679626442828a4f2b5fe498ddc8eb6",
                     "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/96e0c5f3be148ac28e1bb9126b6b4303c07d2f15/android-sdk-r23.0.2.1.tgz"
+            },
+            "r24.1.2": {
+                "date": "Tue Mar 24 02:09:32 2015",
+                "note": "",
+                "sha1": "700fd778a52f1ebf5fbab27719e3811f89181e67",
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/f736720481e6498c016239984a22a88e59dcd6cc/android-sdk-r24.1.2.1.tgz"
             }
         }
     },
