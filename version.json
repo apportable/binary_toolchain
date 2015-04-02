@@ -374,6 +374,12 @@
                 "note": "clang35_bridgekit_disabled",
                 "sha1": "55c176e988a1e253fb99ab87fbe55a0181af76a7",
                 "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/dc51e0ceb51074f66505a8d5106ed485a21191c6/clang-49eae4d263b348421ab0bc564f550b9960ff75b2.tgz"
+            },
+            "15a1590b2f5f35e0b4c18b333d5adac1673df3ad": {
+                "date": "Thu Apr  2 13:39:51 2015",
+                "note": "clang35_bridgekit",
+                "sha1": "c796061c57cc0eaf4cefa49941a8e2a4d239e975",
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/9531b558c9b41b6847fec2460e76f0e6fce03780/clang-15a1590b2f5f35e0b4c18b333d5adac1673df3ad.tgz"
             }
         }
     },
