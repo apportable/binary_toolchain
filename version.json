@@ -380,6 +380,12 @@
                 "note": "clang35_bridgekit",
                 "sha1": "c796061c57cc0eaf4cefa49941a8e2a4d239e975",
                 "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/9531b558c9b41b6847fec2460e76f0e6fce03780/clang-15a1590b2f5f35e0b4c18b333d5adac1673df3ad.tgz"
+            },
+            "edb0489b415dd88e09f70d39a3f0b5313b35a03e": {
+                "date": "Fri Apr  3 18:02:13 2015",
+                "note": "clang35_bridgekit / ARC fix",
+                "sha1": "ce621050bae3c096721e78fb40d16fe9dc43d48b",
+                "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/2fb9df88c09645e02ed4493945c229f4a01a82ce/clang-edb0489b415dd88e09f70d39a3f0b5313b35a03e.tgz"
             }
         }
     },
