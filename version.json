@@ -394,9 +394,9 @@
                 "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/5d46a500188b5b3c68c5d82922d369798114661b/clang-2ce359fdaffe0683a5b824943e1b5608aac02999.tgz"
             },
             "8eb939141a77d8e77ef8a6d9f3473e9ff2874850": {
-                "date": "Wed Apr 15 13:26:07 2015",
+                "date": "Wed Apr 15 14:48:51 2015",
                 "note": "clang35_bridgekit / callback return value fix",
-                "sha1": "94e13727a5c98ba64f264269b43d89cccd23c048",
+                "sha1": "607401578b1d2ee6d535d7af7f73576b5b570851",
                 "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/4bc83d6d0727dda4563ac946c6f8367e7754cb80/clang-8eb939141a77d8e77ef8a6d9f3473e9ff2874850.tgz"
             }
         }
