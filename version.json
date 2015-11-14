@@ -398,7 +398,14 @@
                 "note": "clang35_bridgekit / callback return value fix",
                 "sha1": "607401578b1d2ee6d535d7af7f73576b5b570851",
                 "url": "https://s3.amazonaws.com/engineering-apportable/banelingbust/macosx/4bc83d6d0727dda4563ac946c6f8367e7754cb80/clang-8eb939141a77d8e77ef8a6d9f3473e9ff2874850.tgz"
+            },
+            "7205efffd278bdd67fd876a362b6cbf4b20d29bf": {
+                "date": "Fri Nov 13 18:07:47 2015",
+                "note": "clang37_apportable",
+                "sha1": "7a2c5fd83929cb0108b3095e6d4d216d4365ef40",
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/3a39889caee02b46f74ab9e9051f469abe3f74c2/clang-7205efffd278bdd67fd876a362b6cbf4b20d29bf.tgz"
             }
+
         }
     },
     "gdb": {
