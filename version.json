@@ -404,6 +404,12 @@
                 "note": "clang37_apportable",
                 "sha1": "7a2c5fd83929cb0108b3095e6d4d216d4365ef40",
                 "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/3a39889caee02b46f74ab9e9051f469abe3f74c2/clang-7205efffd278bdd67fd876a362b6cbf4b20d29bf.tgz"
+            },
+            "a4d41baacf8c646443f6cacb72f741e17bc388c7": {
+                "date": "Fri Dec  4 15:00:18 2015",
+                "note": "clang37_apportable - working",
+                "sha1": "3943a8e49d4483e053156da6f3e266ed5c951c3c",
+                "url": "https://d27lwk92hnbfgp.cloudfront.net/banelingbust/macosx/810be1280e9c526be19e8843a85bc31aeca1d232/clang-a4d41baacf8c646443f6cacb72f741e17bc388c7.tgz"
             }
 
         }
